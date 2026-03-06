@@ -91,6 +91,21 @@ export interface VoiceProfiles {
   profiles: Record<string, VoiceProfile>;
 }
 
+export interface ProcessedSection {
+  header: string;
+  start_time: number;
+  end_time: number;
+  text: string;
+}
+
+export interface ProcessedTranscript {
+  source_file: string;
+  date: string;
+  full_text: string;
+  sections: ProcessedSection[];
+  word_count: number;
+}
+
 export interface Sermon {
   title: string;
   date: string;
@@ -101,6 +116,7 @@ export interface Sermon {
   duration: string;
   word_count?: number;
   transcript?: string;
+  sections?: ProcessedSection[];
   context?: TemporalContext;
   references?: SermonReferences;
 }

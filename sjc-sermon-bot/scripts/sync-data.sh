@@ -28,6 +28,13 @@ if [ -d "$PIPELINE_DIR/context" ]; then
   echo "  Copied context/"
 fi
 
+# Copy processed transcripts
+if [ -d "$PIPELINE_DIR/processed_transcripts" ]; then
+  mkdir -p "$WEB_DATA_DIR/processed_transcripts"
+  cp "$PIPELINE_DIR/processed_transcripts/"*.json "$WEB_DATA_DIR/processed_transcripts/" 2>/dev/null
+  echo "  Copied processed_transcripts/"
+fi
+
 # Copy references (voice profiles, influence maps)
 if [ -d "$PIPELINE_DIR/references" ]; then
   mkdir -p "$WEB_DATA_DIR/references"

@@ -19,10 +19,11 @@ CATALOG_PATH = DATA_DIR / "catalog.json"
 CONTEXT_DIR = DATA_DIR / "context"
 REFERENCE_DIR = DATA_DIR / "references"
 GENERATED_DIR = DATA_DIR / "generated_sermons"
+PROCESSED_TRANSCRIPT_DIR = DATA_DIR / "processed_transcripts"
 
 # Create directories if they don't exist
 for d in [DATA_DIR, AUDIO_DIR, TRANSCRIPT_DIR, CHROMA_DIR,
-          CONTEXT_DIR, REFERENCE_DIR, GENERATED_DIR]:
+          CONTEXT_DIR, REFERENCE_DIR, GENERATED_DIR, PROCESSED_TRANSCRIPT_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
 # =============================================================================

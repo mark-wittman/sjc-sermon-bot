@@ -1,0 +1,464 @@
+[
+  {
+    "references": [
+      {
+        "name": "Book of Isaiah (Isaiah 42:1-4)",
+        "type": "scripture",
+        "context": "Quoted: 'Here is my servant whom I uphold, my chosen in whom my soul delights' and 'A bruised reed he will not break. And a dimly burning wick he will not quench.' Used to establish that God's address precedes action and that identity precedes achievement.",
+        "significance": "central"
+      },
+      {
+        "name": "Psalm 29",
+        "type": "scripture",
+        "context": "Cited to celebrate God's voice as majestic and powerful ('capable of shaking the wilderness and splintering the cedars of Lebanon') yet ending in blessing and peace ('The Lord will bless his people with peace').",
+        "significance": "central"
+      },
+      {
+        "name": "Gospel of Matthew (Matthew 3:13-17) / Baptism of Jesus",
+        "type": "scripture",
+        "context": "Quoted: 'This is my son, the beloved, with whom I am well pleased.' The central narrative event demonstrating God's public address and divine affirmation before any action or testing.",
+        "significance": "central"
+      },
+      {
+        "name": "Book of Acts (Acts 10:34)",
+        "type": "scripture",
+        "context": "Referenced through Peter's declaration: 'God shows no partiality, that the same God who spoke over Jesus now speaks across boundaries and cultures and lives.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "The Book of Common Prayer / Prayer Book",
+        "type": "book",
+        "context": "Cited regarding baptismal theology: 'It says that in baptism we are sealed and we are marked and we are claimed as Christ's own. Not provisionally, not temporarily, but forever.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christian baptismal tradition and theology",
+        "type": "tradition",
+        "context": "The sermon grounds its argument in baptismal theology as the continuation of God's address to all believers through water and word in the presence of the church.",
+        "significance": "central"
+      },
+      {
+        "name": "Trinitarian theology",
+        "type": "tradition",
+        "context": "Referenced as 'a manifestation of the triune God for the very first time' at Jesus' baptism, with God the Father proclaiming, the Holy Spirit descending, and the Son being addressed.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christology / Christ as 'the anointed one'",
+        "type": "tradition",
+        "context": "The word 'Christ' is explained as meaning 'the anointed one,' connecting to Old Testament anointing traditions and Jesus' divine calling.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Liturgical calendar / Church year (Epiphany season)",
+        "type": "tradition",
+        "context": "The sermon is situated within the liturgical calendar, specifically the first Sunday after Epiphany, which commemorates the revelation of Jesus' divinity.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Dialogical theology / Address and personhood",
+        "type": "implicit",
+        "context": "The sermon's core argument reflects dialogical theology's emphasis on address and relationship as foundational to personhood and dignity, similar to Martin Buber's 'I-Thou' vs. 'I-It' distinction.",
+        "significance": "central"
+      },
+      {
+        "name": "Relational theology of personhood",
+        "type": "implicit",
+        "context": "The distinction between being 'addressed as a subject' versus 'treated as an object,' and the claim that dignity flows from being claimed and named by God rather than earned through achievement.",
+        "significance": "central"
+      }
+    ],
+    "primary_theme": "God's public address of Jesus as beloved at his baptism reveals that human dignity is conferred through divine speech and relationship rather than achievement or evaluation, and this same dignity is extended to all baptized believers, making how we address one another a matter of baptismal covenant.",
+    "rhetorical_style": "Pastoral reflection combined with theological argument, using contemporary observations about modern forms of depersonalization and evaluation to illuminate ancient biblical texts, building to prophetic challenge about Christian speech and relationships."
+  },
+  {
+    "references": [
+      {
+        "name": "Luke 18:1-8 (The Parable of the Persistent Widow)",
+        "type": "scripture",
+        "context": "Jesus tells the parable of a widow and an unjust judge to teach that 'we might always pray and not lose heart'; the judge 'neither feared God nor respected people' and finally gives in to the widow's persistent pleas for justice.",
+        "significance": "central"
+      },
+      {
+        "name": "Luke (Gospel of Luke)",
+        "type": "scripture",
+        "context": "The preacher cites Luke's narration: 'He neither feared God nor respected people, Luke tells us.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Jeremiah 31:31-34 (The New Covenant)",
+        "type": "scripture",
+        "context": "God's promise to a people in exile: 'The days are surely coming when I will make a new covenant. I will write my law upon their hearts. I will be their God and they shall be my people.'",
+        "significance": "central"
+      },
+      {
+        "name": "Jeremiah (Prophet)",
+        "type": "scripture",
+        "context": "Referenced as speaking 'words spoken to a people who seem to have lost heart' during the Babylonian exile; his covenant message provides the theological foundation for understanding the widow's persistent faith.",
+        "significance": "central"
+      },
+      {
+        "name": "The Book of Jeremiah / Jeremiah's prophetic tradition",
+        "type": "tradition",
+        "context": "The sermon draws on the prophetic tradition of speaking hope to exiled, exhausted people; 'Her persistence is the echo of Jeremiah's words of God's covenant.'",
+        "significance": "central"
+      },
+      {
+        "name": "Jesus Christ (Christological teaching on persistence and prayer)",
+        "type": "thinker",
+        "context": "Jesus teaches the parable and frames its meaning: 'If even an unjust judge eventually gives in, how much more will God, who is good and just, hear the cries of his people?'",
+        "significance": "central"
+      },
+      {
+        "name": "Covenant theology / theology of God's character",
+        "type": "tradition",
+        "context": "The sermon emphasizes God's character as 'good and just,' and contrasts God's merciful justice with worldly systems; this is rooted in covenant theology.",
+        "significance": "central"
+      },
+      {
+        "name": "Reformed/Protestant theology of grace and perseverance",
+        "type": "tradition",
+        "context": "The sermon concludes with 'by grace we've had the perseverance to keep showing up,' invoking the theological concept of grace enabling faithful endurance.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "Persistent faith, rooted not in confidence in worldly systems but in trust in God's just and merciful character, sustains believers through exhaustion and doubt.",
+    "rhetorical_style": "Pastoral reflection with narrative theology; the preacher uses the biblical parable and prophetic promise as a mirror to listeners' own experiences of weariness and loss of heart, moving from exegesis to existential application to pastoral encouragement."
+  },
+  {
+    "references": [
+      {
+        "name": "Paul (the Apostle)",
+        "type": "thinker",
+        "context": "The preacher cites Paul's concept of the crucifixion as 'folly' from the world's perspective: 'It is folly, as Paul says, but it's folly from the point of view of the world.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Genesis",
+        "type": "scripture",
+        "context": "Referenced when discussing God's creative power: 'God uses his power to speak life into existence, as we hear in Genesis.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "The Third Servile War and Spartacus",
+        "type": "thinker",
+        "context": "Historical reference to the ex-gladiator Spartacus and the slave revolt of 71 BC along the Appian Way, where 6,000 crucified men were displayed as political deterrent.",
+        "significance": "central"
+      },
+      {
+        "name": "The Appian Way (Via Appia)",
+        "type": "implicit",
+        "context": "Used as a historical-rhetorical parallel to explain crucifixion as a Roman tool of political suppression and public spectacle.",
+        "significance": "central"
+      },
+      {
+        "name": "Roman Empire political history",
+        "type": "tradition",
+        "context": "Invoked throughout to establish the brutal political context of crucifixion as punishment for revolutionaries and threats to imperial power.",
+        "significance": "central"
+      },
+      {
+        "name": "Islamic theology (concept of Allah's divinity)",
+        "type": "tradition",
+        "context": "Referenced to contrast with Christian incarnational theology: 'An incarnate God is an anathema to Islam. It is considered blasphemy against the divinity of Allah to suggest that he would deign to become human.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Jewish theology (Messianic expectation)",
+        "type": "tradition",
+        "context": "Used to explain Jewish rejection of Jesus: 'Jews do not accept that Jesus was Yahweh incarnate, but only a failed prophet.' Also referenced regarding Jewish desire for liberation from Rome.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Buddhism",
+        "type": "tradition",
+        "context": "Cited to show difference from Christian theology: 'Buddhism has no concept of a god like the way we think of one.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Hinduism (Avatar theology of Vishnu)",
+        "type": "tradition",
+        "context": "Referenced to contrast with Christian incarnation: 'In Hinduism, Vishnu manifests himself through avatars throughout a cycle of world creations and destructions.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Barabbas (biblical/gospel narrative)",
+        "type": "scripture",
+        "context": "Named as the political revolutionary and insurrectionist released instead of Jesus, representing what the crowds wanted in a messiah.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Pilate (Pontius Pilate)",
+        "type": "implicit",
+        "context": "Referenced in the crucifixion narrative regarding Jesus's refusal to defend himself: 'Who doesn't defend himself in front of Pilate?'",
+        "significance": "supporting"
+      },
+      {
+        "name": "The Last Supper (institution narrative)",
+        "type": "scripture",
+        "context": "Alluded to as parallel to the crucifixion and foot-washing in demonstrating sacrificial love: 'It is what Jesus said at the institution of the Last Supper.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Foot-washing narrative (John 13)",
+        "type": "scripture",
+        "context": "Referenced as demonstration of Jesus's humility and service: 'It is what we saw last night in the foot washing.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Gospel accounts of the Passion",
+        "type": "scripture",
+        "context": "Referenced throughout regarding Jesus being mocked with purple cloak and crown of thorns, titled 'King of the Jews,' and the crowds' demands for crucifixion.",
+        "significance": "central"
+      },
+      {
+        "name": "Incarnational theology (Christian doctrine)",
+        "type": "tradition",
+        "context": "Central to the sermon's argument that God became human in Christ, especially focusing on how this contrasts with other religions' understandings of divinity.",
+        "significance": "central"
+      },
+      {
+        "name": "Redemption/atonement theology (trampling down death by death)",
+        "type": "implicit",
+        "context": "The phrase 'trample down death by death' reflects Orthodox Christian soteriological theology, suggesting Christ's victory over death through his own death and resurrection.",
+        "significance": "central"
+      },
+      {
+        "name": "Secular worldview/materialism",
+        "type": "tradition",
+        "context": "Critiqued as 'looking at the crucifixion through the wrong end of a telescope by using big lenses of secular values and earthly political expectations.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "The Johannine title 'Jesus of Nazareth, King of the Jews'",
+        "type": "scripture",
+        "context": "Referenced as the mockery inscription placed on the cross, highlighting the irony of Jesus's kingship.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Sin and idolatry (theological concepts)",
+        "type": "tradition",
+        "context": "Referenced as the cause of human death that God destroys through the crucifixion: 'the death we brought onto ourselves because of our sinfulness and idolatry.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Galatians 3:28 (implicit reference)",
+        "type": "implicit",
+        "context": "The phrase 'God's saving power is offered to both Jew and Greek, slave and free, male and female' directly echoes Paul's inclusivism in Galatians.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "The crucifixion reveals a radically different understanding of divine power\u2014one centered on sacrificial love, life-giving power, and servant humility rather than military domination\u2014which fundamentally distinguishes Christian theology from other major world religions and secular political expectations.",
+    "rhetorical_style": "Narrative-historical analogy combined with comparative theology: the preacher establishes context through vivid historical storytelling (the Appian Way crucifixions), then builds theological argument through systematic comparison with other religions, using the telescope metaphor to contrast worldly versus faithful perspectives on the cross."
+  },
+  {
+    "references": [
+      {
+        "name": "Paul",
+        "type": "thinker",
+        "context": "The preacher cites Paul's statement that the crucifixion is 'folly' from the world's point of view, establishing that Christian faith contradicts worldly wisdom.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Genesis",
+        "type": "scripture",
+        "context": "Referenced when explaining how 'God uses his power to speak life into existence, as we hear in Genesis,' establishing God's creative power.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Third Servile War / Spartacus Revolt",
+        "type": "tradition",
+        "context": "The preacher uses the historical crucifixion of 6,000 rebels along the Appian Way in 71 BC as a backdrop to understand Roman crucifixion practices and political context of Jesus's execution.",
+        "significance": "central"
+      },
+      {
+        "name": "Roman Empire political and judicial practices",
+        "type": "tradition",
+        "context": "The sermon establishes that crucifixion was reserved for political revolutionaries as a display of state power and brutality, contextualizing Jesus's death within Roman imperial violence.",
+        "significance": "central"
+      },
+      {
+        "name": "Gospel accounts of Jesus's trial and crucifixion",
+        "type": "scripture",
+        "context": "Multiple allusions to the gospel narrative: the crowds demanding crucifixion, Jesus mocked with purple cloak and crown of thorns, Pilate's interrogation, betrayal by his people, and the choice between Jesus and Barabbas.",
+        "significance": "central"
+      },
+      {
+        "name": "Islam (Islamic theology)",
+        "type": "tradition",
+        "context": "The preacher contrasts Christian theology with Islam, noting that incarnation and crucifixion constitute blasphemy against Allah in Islamic belief.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Judaism (Jewish theology)",
+        "type": "tradition",
+        "context": "The preacher notes that Jews do not accept Jesus as Yahweh incarnate but view him as a failed prophet, distinguishing Christian claims from Jewish messianic expectations.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Buddhism",
+        "type": "tradition",
+        "context": "Buddhism is cited as having no concept of God in the way Christians understand it, highlighting the uniqueness of Christian faith.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Hinduism (avatar theology)",
+        "type": "tradition",
+        "context": "Hinduism is cited as understanding divinity through avatars manifesting in cycles of world creation and destruction, contrasting with Christian incarnational theology.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Appian Way (Via Appia)",
+        "type": "tradition",
+        "context": "The preacher identifies the Appian Way as 'the most important strategic thoroughfare of the Roman Empire' used for troop movements and trade, establishing the historical and political significance of the site.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Barabbas",
+        "type": "scripture",
+        "context": "The preacher contrasts Jesus with Barabbas, the political revolutionary and insurrectionist, showing that the crowds chose a violent insurrectionist over the non-violent Messiah.",
+        "significance": "central"
+      },
+      {
+        "name": "Last Supper / Foot washing (Maundy Thursday tradition)",
+        "type": "scripture",
+        "context": "The preacher references the foot washing and institution of the Last Supper as revelations of sacrificial love, humility, and service that culminate in the crucifixion.",
+        "significance": "central"
+      },
+      {
+        "name": "Etymology: 'excruciating' from 'ex cruce' (out of the cross)",
+        "type": "implicit",
+        "context": "The preacher notes that the word 'excruciating' literally means 'out of the cross,' demonstrating the linguistic embedding of crucifixion's brutality in language itself.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Incarnational theology",
+        "type": "tradition",
+        "context": "The sermon's central claim that 'Christ is both the fullness of God and the fullness of humanity revealed' embodies classical Christian incarnational theology.",
+        "significance": "central"
+      },
+      {
+        "name": "Atonement theology (Christ trampling down death by death)",
+        "type": "implicit",
+        "context": "The phrase 'God's willingness to die as a human being in order to trample down death by death' echoes Orthodox Christian paschal theology and atonement doctrine.",
+        "significance": "central"
+      },
+      {
+        "name": "Lens of faith vs. worldly perspective",
+        "type": "implicit",
+        "context": "The preacher uses the metaphor of viewing the crucifixion through the 'wrong end of a telescope' (worldly values) versus through the 'proper eyepiece of faith' (God's perspective), suggesting a Kierkegaardian leap of faith or similar existential theology.",
+        "significance": "central"
+      },
+      {
+        "name": "Sacrifice and kenosis (self-emptying love)",
+        "type": "implicit",
+        "context": "The emphasis on Jesus pouring himself out in 'sacrificial love, humility, and service' reflects the theological concept of kenosis, God's self-emptying in incarnation.",
+        "significance": "central"
+      }
+    ],
+    "primary_theme": "The crucifixion reveals God's true power and nature\u2014not the violent domination of empires, but the redemptive power of sacrificial love and self-giving service that liberates humanity from sin and death, standing in stark contrast to worldly notions of power and to the theological claims of other major religions.",
+    "rhetorical_style": "Historical narrative contextualization (vivid imagining of the I-25/Appian Way parallel), comparative theology, prophetic contrast between divine and worldly power, pastoral reflection on faith's perspective, and metaphorical reasoning (the telescope image)."
+  },
+  {
+    "references": [
+      {
+        "name": "Isaiah (prophecy of humble king)",
+        "type": "scripture",
+        "context": "Jesus enters Jerusalem on a donkey, 'fulfilling the prophecy of Isaiah,' a sign of lowliness and humility rather than military power.",
+        "significance": "central"
+      },
+      {
+        "name": "Moses and the Exodus from Egypt",
+        "type": "scripture",
+        "context": "Jews expected a Messiah 'like the way Moses defeated Pharaoh and delivered the Israelites from Egypt,' wanting political liberation rather than spiritual redemption.",
+        "significance": "central"
+      },
+      {
+        "name": "King David",
+        "type": "scripture",
+        "context": "Jews 'longed for the days of Israel under King David' and believed Jesus would restore that political golden age.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Lazarus resurrection",
+        "type": "scripture",
+        "context": "Jesus 'raised Lazarus from the dead just days before' Palm Sunday, demonstrating power the Jews believed marked the Messiah.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Feeding of the five thousand",
+        "type": "scripture",
+        "context": "Jesus 'fed thousands in the wilderness,' cited as miraculous evidence supporting messianic expectations.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Healing miracles and sight to the blind",
+        "type": "scripture",
+        "context": "Jesus 'healed the sick' and 'gave sight to the blind,' fulfilling perceived messianic prophecies.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Kingdom of heaven parables (mustard seed and laborers)",
+        "type": "scripture",
+        "context": "Jesus taught 'the kingdom of heaven is like a mustard seed' and 'like a field of laborers,' but the crowds misunderstood, seeking political rather than spiritual meaning.",
+        "significance": "central"
+      },
+      {
+        "name": "Jesus's statement 'my kingdom is not of this world'",
+        "type": "scripture",
+        "context": "Jesus repeatedly said this to his disciples, but they failed to grasp his spiritual rather than political mission.",
+        "significance": "central"
+      },
+      {
+        "name": "Jesus not allowing disciples to fight",
+        "type": "scripture",
+        "context": "Jesus 'did not allow his disciples to fight on his behalf,' rejecting violent political resistance.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Trial before Pilate",
+        "type": "scripture",
+        "context": "Jesus stands 'toe to toe with the political rulers' but responds with silence, no speeches, arguments, or demonstrations of power\u2014showing his true power through conviction.",
+        "significance": "central"
+      },
+      {
+        "name": "Pilate declares Jesus innocent three times",
+        "type": "scripture",
+        "context": "Despite Pilate's triple declaration of innocence, 'the crowds shout to crucify him,' demonstrating the fickleness of public opinion.",
+        "significance": "central"
+      },
+      {
+        "name": "Barabbas (the insurrectionist and murderer)",
+        "type": "scripture",
+        "context": "The crowds choose to release Barabbas, 'a rebel,' 'an insurrectionist,' and 'a murderer' who symbolized the violent political power they wanted, over Jesus.",
+        "significance": "central"
+      },
+      {
+        "name": "Hosanna and 'crucify him' contrast",
+        "type": "scripture",
+        "context": "The sermon uses the dramatic reversal from 'Hosanna, save us' to 'give us Barabbas, crucify him' five days later as the central Palm Sunday paradox.",
+        "significance": "central"
+      },
+      {
+        "name": "Roman Empire rule over Judea",
+        "type": "tradition",
+        "context": "The sermon provides historical context: Jews were not enslaved but were 'excessively taxed' and experienced tension with Roman legal, cultural, and religious practices.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Episcopal Church liturgical tradition",
+        "type": "tradition",
+        "context": "The sermon opens by discussing a movement in some Episcopal parishes to omit the Passion reading on Palm Sunday and reserve it for Good Friday.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christian discipleship and spiritual failure",
+        "type": "tradition",
+        "context": "The sermon appeals to the Christian understanding that Palm Sunday reminds us 'of our own failures in discipleship' and our capacity for cruelty and self-interest.",
+        "significance": "central"
+      }
+    ],
+    "primary_theme": "Palm Sunday reveals the timeless human tendency to turn violently on leaders and communities when they fail to meet our political or ideological expectations, rather than accepting humble spiritual truth; the sermon challenges listeners to examine whether they would reject Jesus today if he refused to validate their political worldview.",
+    "rhetorical_style": "Pastoral narrative with scholarly-historical context; the preacher combines personal anecdote (the pastor who was rejected by his congregation), biblical exegesis (explaining first-century Jewish expectations), and contemporary application (direct challenge to the audience about their own fickleness). The style moves from liturgical/theological discussion to personal testimony to historical analysis to prophetic interrogation."
+  }
+]

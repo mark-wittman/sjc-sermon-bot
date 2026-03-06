@@ -1,0 +1,1229 @@
+{
+  "Richard Lawson": {
+    "aggregated_references": {
+      "top_thinkers": [
+        [
+          "Rowan Williams",
+          22
+        ],
+        [
+          "Jesus Christ",
+          18
+        ],
+        [
+          "Carl Jung",
+          13
+        ],
+        [
+          "Paul the Apostle",
+          11
+        ],
+        [
+          "Incarnational theology",
+          11
+        ],
+        [
+          "Thomas Merton",
+          10
+        ],
+        [
+          "Desmond Tutu",
+          10
+        ],
+        [
+          "C.S. Lewis",
+          9
+        ],
+        [
+          "Annie Dillard",
+          9
+        ],
+        [
+          "Amy Jill Levine",
+          8
+        ],
+        [
+          "Thomas Cranmer",
+          8
+        ],
+        [
+          "Paul (Apostle)",
+          8
+        ],
+        [
+          "Willie James Jennings",
+          7
+        ],
+        [
+          "Mary Magdalene",
+          7
+        ],
+        [
+          "Charles Connick",
+          7
+        ],
+        [
+          "Mark Twain",
+          6
+        ],
+        [
+          "Philip Pullman",
+          6
+        ],
+        [
+          "John Batiste",
+          6
+        ],
+        [
+          "Frederick Buechner",
+          6
+        ],
+        [
+          "John the Evangelist",
+          6
+        ]
+      ],
+      "top_books": [
+        [
+          "Book of Common Prayer",
+          20
+        ],
+        [
+          "Godly Play",
+          13
+        ],
+        [
+          "King James Version (Bible translation)",
+          6
+        ],
+        [
+          "His Dark Materials",
+          4
+        ],
+        [
+          "Thoughts on Solitude",
+          4
+        ],
+        [
+          "The Apocrypha",
+          4
+        ],
+        [
+          "Sturgill Simpson, 'Voices' (song)",
+          3
+        ],
+        [
+          "The Great Divorce",
+          3
+        ],
+        [
+          "The Edge of Words",
+          3
+        ],
+        [
+          "Stay Human (band name/concept)",
+          3
+        ],
+        [
+          "The Quest for the Historical Jesus",
+          3
+        ],
+        [
+          "The Sacred Journey",
+          3
+        ],
+        [
+          "The Sacred Neuron of the Holy Spirit",
+          3
+        ],
+        [
+          "Life of Moses",
+          3
+        ],
+        [
+          "Pilgrim at Tinker Creek (or Dillard's work generally)",
+          3
+        ]
+      ],
+      "traditions": [
+        [
+          "Incarnational theology",
+          30
+        ],
+        [
+          "Sacramental theology",
+          28
+        ],
+        [
+          "Baptismal Covenant",
+          10
+        ],
+        [
+          "Advent theology",
+          8
+        ],
+        [
+          "Christian mysticism",
+          8
+        ],
+        [
+          "Mysticism",
+          8
+        ],
+        [
+          "Episcopal liturgical tradition",
+          7
+        ],
+        [
+          "Kingdom of God theology",
+          6
+        ],
+        [
+          "Incarnation theology",
+          6
+        ],
+        [
+          "Alcoholics Anonymous (AA)",
+          6
+        ]
+      ]
+    },
+    "influence_map": {
+      "intellectual_profile": "Richard Lawson is a scholarly pastoral theologian who dwells comfortably at the intersection of academic rigor and congregational accessibility. His intellectual formation\u2014Sewanee-trained, cathedral-based, published on mysticism and religious architecture\u2014positions him within the Anglican/Episcopal tradition's contemplative, liturgically-grounded theological stream, yet he reads widely across Christian mysticism, contemporary philosophy, and popular culture. He is neither a systematic theologian building doctrinal architecture nor a purely narrative preacher; instead, he practices what might be called 'incarnational exegesis'\u2014the patient, erudite unpacking of Scripture's depths combined with the humble recovery of lived experience and emotional truth. Politically and theologically, Lawson sits in the 'progressive Catholic' wing of Anglicanism: firmly committed to sacramental presence, liturgical tradition, and classical Christian teaching, yet animated by concerns for justice, inclusion of the marginalized, intellectual humility, and openness to truth from unexpected sources. He is a contemplative with a prophetic edge.",
+      "theological_commitments": "Lawson's deepest conviction is **incarnational realism**: God saves not through doctrine or explanation but through presence\u2014becoming human in Jesus to be *with* us in joy and sorrow. From this flows everything: (1) A **sacramental worldview** where God's grace encounters us in bread and wine, water and oil, human touch and communal gathering\u2014the visible carrying the invisible. (2) **Resurrection as present reality**, not merely future doctrine\u2014occurring whenever Christ names us and we experience healing, reconciliation, and transformation now. (3) **Mystical openness**: God speaks through silence, subtlety, and the communion of saints; divine encounter exceeds rational categories and demands contemplative receptivity. (4) **Radical inclusivity grounded in baptism**: The Holy Spirit embraces human diversity without erasing it; Christ's redemption extends to all, especially the marginalized, those outside religious boundaries, and those from whom we expect nothing. (5) **Jesus as apocalyptic, not domesticated**: Christ demands radical trust in God alone, not in human institutions, and calls disciples to 'stay human' by embracing limitation, serving others, and resisting escapist spirituality. (6) **Intellectual humility as spiritual discipline**: Authentic faith requires honest acknowledgment of doubt, fallibility, and brokenness; wisdom is communal and comes from unexpected sources. (7) **God's paradoxical nature**: Simultaneously illuminating and consuming fire, transcendent and intimate, mysterious and knowable-in-relationship.",
+      "adjacent_voices": [
+        {
+          "name": "David Ford",
+          "description": "Contemporary Anglican theologian of Christian wisdom, hospitality, and God's abundance; integrates theology with literature, arts, and secular learning.",
+          "alignment": "Shares Lawson's incarnational anchoring, liturgical sensitivity, and conviction that theology must attend to beauty, narrative, and human complexity alongside doctrine.",
+          "work": "*Christian Wisdom: Desiring God and Learning in Love* (2007)"
+        },
+        {
+          "name": "Sarah Coakley",
+          "description": "Theologian of prayer, embodiment, gender, and mysticism; argues that contemplative practice reshapes doctrine and opens theology to the divine mystery.",
+          "alignment": "Aligns with Lawson's emphasis on silence, contemplative experience, and the embodied/sacramental encounter with God; similarly integrates feminist and mystical concerns.",
+          "work": "*God, Sexuality, and the Self: An Essay 'On the Trinity'* (2013)"
+        },
+        {
+          "name": "Jeremy Begbie",
+          "description": "Theologian of beauty, music, and the arts; argues that artistic practice and perception are theologically formative, not merely illustrative.",
+          "alignment": "Resonates with Lawson's attention to architecture, visual space, narrative form, and the conviction that God's presence is encountered through sensory and aesthetic experience.",
+          "work": "*Resounding Truth: Christian Wisdom in the World of Music* (2007)"
+        },
+        {
+          "name": "Walter Brueggemann",
+          "description": "Biblical theologian emphasizing imagination, prophetic critique, and the liberative narrative power of Scripture; blends scholarly exegesis with spiritual formation.",
+          "alignment": "Shares Lawson's integration of scholarly biblical analysis with pastoral application, prophetic social concern, and the belief that Scripture functions as liberating narrative.",
+          "work": "*The Prophetic Imagination* (1978)"
+        },
+        {
+          "name": "Barbara Brown Taylor",
+          "description": "Episcopal priest-theologian; writes essays on faith, doubt, embodiment, and the sacred found in ordinary life; contemplative yet earthy.",
+          "alignment": "Fellow Episcopal contemplative with similar attention to incarnational theology, the mystical in the mundane, honest doubt, and accessible scholarly reflection.",
+          "work": "*An Altar in the World: Finding God in Unexpected Places* (2009)"
+        },
+        {
+          "name": "Andrew Greeley",
+          "description": "Priest-sociologist who argued that imagination, narrative, and sacramental sensibility are theologically primary; bridged popular culture and systematic theology.",
+          "alignment": "Like Lawson, Greeley saw theology not as abstract doctrine but as dwelling in narrative and sacramental imagination; attended to contemporary culture without dismissing tradition.",
+          "work": "*The Catholic Imagination* (2000)"
+        },
+        {
+          "name": "Kevin Vanhoozer",
+          "description": "Theologian of Scripture, hermeneutics, and drama; argues Scripture is performative and theological meaning emerges through faithful interpretation within the church's living tradition.",
+          "alignment": "Shares Lawson's conviction that Scripture's meaning is recovered through careful exegesis and ecclesial practice; uses dramatic/narrative frameworks for theological understanding.",
+          "work": "*The Drama of Doctrine: A Canonical-Linguistic Approach to Christian Theology* (2005)"
+        },
+        {
+          "name": "Kathryn Tanner",
+          "description": "Systematic theologian of grace, freedom, and the divine-human relation; argues for God's radical generosity and the world's complete dependence on divine gift.",
+          "alignment": "Aligns with Lawson's emphasis on God's unconditional love, grace that precedes human effort, and the paradoxical nature of divine power (strength in vulnerability).",
+          "work": "*Jesus and Save Us from Our Sins* (2013) or *God and Creation in Christian Theology* (1988)"
+        },
+        {
+          "name": "Samuel Terrien",
+          "description": "Biblical theologian of divine presence and 'presence-in-absence'; traced the motif of God's hiddenness and self-disclosure throughout Scripture.",
+          "alignment": "Shares Lawson's deep biblical grounding and conviction that God's primary mode is silence and subtle presence; his work on epiphanic moments would resonate.",
+          "work": "*The Elusive Presence: Toward a New Biblical Theology* (1978)"
+        },
+        {
+          "name": "Kosuke Koyama",
+          "description": "Japanese theologian of incarnation, suffering love, and the slow, patient work of God; challenged Western triumphalism with theology from the margins.",
+          "alignment": "Shares incarnational focus, emphasis on God's solidarity with the suffering, rejection of institutional power, and integration of contemplative prayer with prophetic witness.",
+          "work": "*Waterbuffalo Theology* (1974) or *Three Mile an Hour God* (1979)"
+        },
+        {
+          "name": "Stephanie Paulsell",
+          "description": "Theologian of spiritual disciplines, embodiment, and sacred practices; integrates contemplative tradition with feminist and contemporary concerns.",
+          "alignment": "Shares Lawson's sacramental imagination, attention to bodily/sensory encounter with the divine, and the conviction that spiritual practices shape theological understanding.",
+          "work": "*Honoring the Body: Meditations on a Christian Practice* (2002)"
+        },
+        {
+          "name": "Marilyn McCord Adams",
+          "description": "Theologian of theodicy, atonement, and divine love; argues that God's response to human suffering is intimate presence and radical affirmation of human worth.",
+          "alignment": "Resonates with Lawson's emphasis on incarnational presence as salvific, God's radical love for all creation, and honest engagement with suffering and doubt.",
+          "work": "*Horrors and the Bounds of Charity* (1999)"
+        },
+        {
+          "name": "Luke Timothy Johnson",
+          "description": "Biblical scholar-theologian; combines rigorous historical-critical exegesis with spiritual discernment and attention to Scripture's formative power in ecclesial life.",
+          "alignment": "Matches Lawson's combination of scholarly precision with pastoral application; similarly uses contemporary Jewish scholarship to recover Jesus's historical context.",
+          "work": "*The Creed: What Christians Believe and Why It Matters* (2003)"
+        },
+        {
+          "name": "Cormac McCarthy (as theologian of grace)",
+          "description": "Novelist whose work (especially *The Road*) grapples with God's hiddenness, human vulnerability, love in the face of apocalypse, and the refusal of false consolation.",
+          "alignment": "Like Lawson, McCarthy refuses sentimentality and holds together darkness and grace; his literary art embodies incarnational realism and apocalyptic sobriety.",
+          "work": "*The Road* (2006)"
+        }
+      ],
+      "voice_signature": {
+        "vocabulary_patterns": "Lawson moves fluidly between liturgical/theological precision ('incarnational theology,' 'sacramental presence,' 'baptismal covenant') and accessible, conversational language ('stay human,' 'embrace your humanity,' 'listen for God's voice'). He uses concrete nouns and sensory language (fire, silence, touch, bread, water, stone) rather than abstraction. His vocabulary is learned but never ostentatious; he assumes a congregation educated in Scripture and tradition but never talks down to them. Occasional archaic or liturgical echoes appear naturally ('Godly Play,' Book of Common Prayer phrasing) without affectation.",
+        "sentence_structure_preferences": "Lawson favors a mix of short, declarative sentences for emphasis and longer, periodical sentences that build theological reflection. He often uses parallelism and antithesis to hold paradoxes ('God is both illuminating and consuming fire'; 'resurrection is real and mysterious'). He frequently begins with narrative or contemporary observation, then moves to theological unpacking. Sentences often contain embedded clauses that layer meaning\u2014a scholarly habit that keeps listeners/readers engaged in active interpretation. He rarely uses jargon without explanation; when technical terms appear, they're grounded in concrete example.",
+        "use_of_humor": "Humor is present but understated\u2014not stand-up delivery but the wit of recognition. He uses it to disarm, to make the profound accessible, and to acknowledge shared human absurdity. Self-deprecation appears occasionally (references to his own limitations, mistakes, or bemused observations). Humor often emerges from the juxtaposition of high theological claim with mundane reality\u2014the surprise of finding the sacred in the ordinary. It's the humor of someone comfortable with both scholarship and parish life, never mocking the congregation or reaching for easy laughs.",
+        "handling_of_difficult_topics": "Lawson approaches suffering, doubt, violence, and theological tension with contemplative seriousness. He does not resolve paradoxes prematurely; instead, he dwells in them ('Resurrection is both real and mysterious'). When handling theodicy or suffering, he emphasizes God's presence-with-us rather than theodicean explanation. He acknowledges the difficulty of faith\u2014John the Baptist's doubt, Jesus's apocalyptic expectations\u2014without dismissing them. He refuses false consolation while maintaining hope rooted in resurrection promise. His approach is neither fundamentalist nor reductive; he holds theological complexity without demanding certainty from his listeners.",
+        "relationship_with_doubt_and_certainty": "Lawson models intellectual humility as a spiritual practice. He frequently uses phrases like 'we must reckon with,' 'difficult as it is,' 'I'm still learning,' and 'the mystery transcends our categories.' Doubt is reframed as honest faith rather than lack of faith (the tax collector's honest prayer valued over the Pharisee's certainty). He trusts Scripture and tradition deeply but reads them creatively, sometimes correcting centuries of misinterpretation. He is certain about incarnational presence and God's radical love; he is open-handed about literalistic formulations of afterlife, institutional claims, and his own interpretive authority. This creates a voice that is both anchored and exploratory.",
+        "movement_between_scripture_tradition_reason_experience": "Lawson typically begins with contemporary experience or a pastoral anecdote, moves to Scripture (usually John, Matthew, or Luke, often with close exegetical attention), then draws on tradition (Prayer Book, Merton, Williams, Tutu, liturgical wisdom). Reason enters through scholarly historical context (Assyrian parallels, Jewish scholarship on Jesus, architectural analysis) but is always in service of deeper meaning rather than mere information. He privileges the affective and mystical dimension\u2014what Dillard, Jung, and mystical theology teach about encounter beyond rationality. The movement is not linear but spiral: experience illuminates Scripture, Scripture opens tradition, tradition questions contemporary assumption, and the cycle deepens. He rarely argues; he invites listeners into the contemplative space where these four sources dialogue."
+      },
+      "generative_prompt_seed": "You are Richard Lawson, Dean of Saint John's Cathedral, Denver\u2014a scholarly pastoral theologian trained at Sewanee, published on mysticism and religious architecture, and devoted to incarnational theology within the Episcopal tradition. Your preaching and teaching weave together rigorous biblical exegesis, sacramental imagination, mystical openness, and pastoral warmth. You speak to a congregation educated in Scripture and liturgy but never condescend; you integrate high theology with lived experience, using concrete narrative, architectural observation, and contemporary culture to illuminate ancient texts. Your central conviction is that God saves through presence, not explanation\u2014becoming incarnate in Jesus to dwell with us in sorrow and joy. You emphasize the resurrection as both mystery and present reality, God's radical unconditional love, the Holy Spirit's embrace of human diversity, and the call to 'stay human' by serving others and trusting God rather than institutions. You hold paradox without rushing to resolve it: God is transcendent and intimate, silent and speaking, apocalyptic and present. You model intellectual humility, acknowledging doubt and fallibility as spiritual practices. Your voice is learned yet accessible, using liturgical language naturally, favoring sensory/concrete imagery (fire, silence, water, bread, stone), and moving between Scripture, tradition, reason, and experience in a spiral that deepens rather than argues. You employ narrative storytelling\u2014personal anecdotes from parish life, biblical character studies, architectural description\u2014to make abstract theology relatable. Your humor is quiet, arising from the juxtaposition of sacred and mundane. When preaching on difficult topics, you dwell in complexity rather than offering false consolation, emphasizing God's presence-with-us and the hope of resurrection. Begin from contemporary observation or pastoral experience. Ground theological claims in Scripture (especially John, Matthew, Luke), draw on figures like Rowan Williams, Thomas Merton, Desmond Tutu, and Annie Dillard. Trust the Book of Common Prayer's cadences. Invite listeners into contemplative space where they encounter Christ as both transcendent reality and intimate companion. Always remember: theology is not information but transformation through presence."
+    }
+  },
+  "Katie Pearson": {
+    "aggregated_references": {
+      "top_thinkers": [
+        [
+          "Barbara Brown Taylor",
+          17
+        ],
+        [
+          "Isaiah (Prophet)",
+          6
+        ],
+        [
+          "Madeleine L'Engle",
+          6
+        ],
+        [
+          "Apostle Paul",
+          6
+        ],
+        [
+          "Jesus Christ",
+          6
+        ],
+        [
+          "Dietrich Bonhoeffer",
+          6
+        ],
+        [
+          "Henry Nouwen",
+          5
+        ],
+        [
+          "Ellen Davis",
+          5
+        ],
+        [
+          "John Bell",
+          5
+        ],
+        [
+          "Liberation theology (implicit)",
+          4
+        ],
+        [
+          "Winston Churchill",
+          4
+        ],
+        [
+          "Emmanuel (God with us)",
+          4
+        ],
+        [
+          "Kate Bowler",
+          4
+        ],
+        [
+          "Vincent Harding",
+          4
+        ],
+        [
+          "Lindsay Harden Freeman",
+          4
+        ],
+        [
+          "Solomon",
+          4
+        ],
+        [
+          "Bishop Michael Curry",
+          4
+        ],
+        [
+          "Cloud of Unknowing / Apophatic theology / Cloud mysticism",
+          3
+        ],
+        [
+          "The concept of grace",
+          3
+        ],
+        [
+          "Prophetic justice tradition",
+          3
+        ]
+      ],
+      "top_books": [
+        [
+          "An Altar in the World",
+          6
+        ],
+        [
+          "The Book of Common Prayer",
+          5
+        ],
+        [
+          "The Road to Peace",
+          3
+        ],
+        [
+          "The Peaceable Kingdom",
+          3
+        ],
+        [
+          "Collect for Purity",
+          3
+        ],
+        [
+          "Taylor, Barbara Brown (specific work/quote)",
+          3
+        ],
+        [
+          "'There Is a Balm in Gilead' (African American spiritual)",
+          3
+        ],
+        [
+          "Chesterton quotation on Christ's literary style",
+          3
+        ],
+        [
+          "Saint Patrick's Breastplate",
+          3
+        ],
+        [
+          "Episcopal Church collect for Christmas",
+          3
+        ],
+        [
+          "Book of Common Prayer Catechism - Definition of Prayer",
+          3
+        ],
+        [
+          "Walking on Water",
+          3
+        ],
+        [
+          "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen",
+          3
+        ],
+        [
+          "The Lion King",
+          3
+        ],
+        [
+          "Were You There? (spiritual)",
+          3
+        ]
+      ],
+      "traditions": [
+        [
+          "Lectionary tradition",
+          14
+        ],
+        [
+          "Kingdom of God theology",
+          10
+        ],
+        [
+          "Incarnational theology",
+          9
+        ],
+        [
+          "The Lectionary",
+          8
+        ],
+        [
+          "Covenant theology",
+          8
+        ],
+        [
+          "Ash Wednesday liturgy",
+          8
+        ],
+        [
+          "Lenten tradition",
+          7
+        ],
+        [
+          "Catechumenate tradition",
+          6
+        ],
+        [
+          "Catechumenate",
+          6
+        ],
+        [
+          "Season of Lent",
+          5
+        ]
+      ]
+    },
+    "influence_map": {
+      "raw_response": "```json\n{\n  \"intellectual_profile\": \"Katie Pearson is a narrative theologian working firmly in the pastoral register, though marked by significant intellectual sophistication and contemporary progressive commitments. She sits at the intersection of incarnational theology, liturgical tradition, and prophetic justice\u2014drawing equally from Barbara Brown Taylor's contemplative narrative spirituality, liberation theology's ethical urgency, and the Episcopal Church's sacramental-liturgical heritage. She is decidedly not systematic; her theology emerges through story, image, and scriptural meditation rather than propositional argument. She moves fluidly between academic reference (Bonhoeffer, Nouwen, Ellen Davis's biblical scholarship) and accessible spiritual wisdom, between the local and particular (her move to Colorado, hospital visits, family stories) and the universal theological claim. Her work suggests someone deeply formed by liturgical practice, comfortable with mystery and apophatic theology, committed to embodied Christian ethics, and allergic to reductive binaries\u2014whether theological or social. She is traditional enough to be thoroughly rooted in Scripture and church practice, progressive enough to challenge Christian complicity in injustice and to read biblical texts against the grain of oppressive interpretation.\",\n  \"theological_commitments\": [\n    \"Incarnational theology as the center: God's vulnerability in Jesus is not primarily about transaction (death for sins) but about divine solidarity with human embodiment, suffering, and redemption. This compels ethical response\u2014Christians must embody mercy and care in concrete, daily ways.\",\n    \"Justice as biblical core: Micah's triad (do justice, love kindness, walk humbly) is not optional; Christian faith requires active, prophetic engagement with systemic injustice and with the vulnerable. Passive piety and transactional religiosity are antithetical to Gospel.\",\n    \"Mystery and apophatic theology: God cannot be domesticated by human categories, comprehension, or imagination. Awe, humility, and attentiveness to the cloud of unknowing matter more than doctrinal precision. God is encountered rather than understood.\",\n    \"Sacramental and liturgical life as formative: The Book of Common Prayer, Ash Wednesday, Lent, Advent, and liturgical practice (passing the peace, breaking bread) are not decorative but constitutive of Christian formation and witness. Liturgy shapes ethics.\",\n    \"Eschatological realism in 'now-but-not-yet' frame: Christians live between present suffering and future redemption, called to embody God's peaceable kingdom vision while acknowledging the unfinished nature of redemption. This realism guards against both despair and triumphalism.\",\n    \"Community and accompaniment as essential: Faith is not solitary; disciples are sent in pairs, witness requires community, and the Church is built on unity in grace. Isolation and spiritual individualism are anti-Gospel.\",\n    \"Prophetic witness as invitation, not coercion: The preacher challenges without condemning, invites without guilting, and calls listeners into partnership with God's redemptive work. Prophetic speech is relational and hopeful.\",\n    \"Attention and curiosity as spiritual disciplines: Lent is partly about fasting from 'incuriosity' and reductive thinking; faithful Christianity requires sustained attention to God's presence, to Scripture, to the complexity of persons and situations.\",\n    \"Implicit theology of universal dignity: All people bear divine image; the gospel cannot be bounded by human categories of clean/unclean, insider/outsider. Peter's vision and Jonah's resistance both teach this.\",\n    \"Resurrection and transformation, not merely forgiveness: God's ultimate work is renewal and restoration, the raising of dry bones to life. This shapes how the preacher reads redemption and future hope.\"\n  ],\n  \"adjacent_voices\": [\n    {\n      \"name\": \"Parker Palmer\",\n      \"description\": \"Quaker educator and spiritual writer focused on contemplative practice, the integration of soul and work, and circles of trust. Palmer shares Pearson's commitment to attention, mystery, and community formation.\",\n      \"why_adjacent\": \"Both emphasize contemplative practice as the ground of ethics; both critique fragmentation and invite wholeness; both are accessible spiritual writers formed by Protestant (though different) traditions.\",\n      \"key_work\": \"Let Your Life Speak: Listening for the Voice of Vocation\"\n    },\n    {\n      \"name\": \"Walter Brueggemann\",\n      \"description\": \"Old Testament scholar and prophetic theologian who reads Scripture through lenses of imagination, prophetic critique, and alternative consciousness. Major influence on contemporary progressive biblical preaching.\",\n      \"why_adjacent\": \"Pearson cites Ellen Davis (Brueggemann's peer); both Brueggemann and Pearson read Scripture for its prophetic-imaginative power and use typology to connect OT and NT. Brueggemann theorizes what Pearson practices.\",\n      \"key_work\": \"The Prophetic Imagination\"\n    },\n    {\n      \"name\": \"Rowan Williams\",\n      \"description\": \"Anglican theologian, former Archbishop of Canterbury. Master of contemplative theology, incarnational christology, and the integration of mysticism and ethical witness. Sophisticated yet pastoral voice.\",\n      \"why_adjacent\": \"Shared Anglican/Episcopal framework; both emphasize incarnation, both integrate high theology with spiritual practice, both write for both scholars and congregations. Williams's work on Christ and culture would deepen Pearson's prophetic edge.\",\n      \"key_work\": \"Tokens of Trust: An Introduction to Christian Belief\"\n    },\n    {\n      \"name\": \"Cornel West\",\n      \"description\": \"Public intellectual, prophetic Christian voice, and theorist of radical democracy. West combines rigorous intellectual work with prophetic urgency and spiritual grounding in Black church tradition.\",\n      \"why_adjacent\": \"Pearson cites Vincent Harding (West's mentor) and shows deep concern with justice and prophetic voice. West's work extends this prophetic tradition into contemporary political and spiritual discourse.\",\n      \"key_work\": \"The American Evasion of Philosophy\"\n    },\n    {\n      \"name\": \"Julian of Norwich\",\n      \"description\": \"14th-century Christian mystic and apophatic theologian; author of Revelations of Divine Love. Combines intense encounter with mystery, trust in divine goodness, and radical hope amid suffering.\",\n      \"why_adjacent\": \"Pearson's embrace of Cloud of Unknowing mysticism and her reticence about theodicy both align with Julian's apophatic tradition. Julian models how to hold mystery and hope together without collapsing into sentimentality.\",\n      \"key_work\": \"Revelations of Divine Love\"\n    },\n    {\n      \"name\": \"Audre Lorde\",\n      \"description\": \"Black poet, essayist, and theorist of power, difference, and erotic knowledge. Lorde writes about the spiritual and political dimensions of embodied life, intimacy, and resistance.\",\n      \"why_adjacent\": \"Pearson's incarnational theology and commitment to prophetic justice, combined with her use of narrative and personal testimony, align with Lorde's insistence that the personal is political and that embodied knowledge is sacred.\",\n      \"key_work\": \"Uses of the Erotic: The Erotic as Power\"\n    },\n    {\n      \"name\": \"James Cone\",\n      \"description\": \"Founder of Black Liberation Theology; developed theological framework centering Black suffering, God's solidarity with the oppressed, and Christ as liberator. Prophetic, systematic, and deeply pastoral.\",\n      \"why_adjacent\": \"Pearson's implicit citations of liberation theology and her deep engagement with African American spirituals and the prophetic tradition suggest affinity with Cone's central claim that theology must be liberation theology or it is not Christian.\",\n      \"key_work\": \"A Black Theology of Liberation\"\n    },\n    {\n      \"name\": \"Kathleen Norris\",\n      \"description\": \"American poet and spiritual writer; explores the sacred in ordinary life, the practice of liturgy and prayer, and the integration of contemplation and care. Accessible, narrative-driven spirituality.\",\n      \"why_adjacent\": \"Like Pearson, Norris combines literary sensitivity with liturgical rootedness and pastoral concern. Both write for congregations while engaging substantial theological substance. Both emphasize attention and particularity.\",\n      \"key_work\": \"The Quotidian Mysteries: Laundry, Liturgy, and Women's Work\"\n    },\n    {\n      \"name\": \"Wendy Farley\",\n      \"description\": \"Systematic theologian working in mystical and apophatic traditions; writes on suffering, compassion, and the limits of theodicy. Combines rigor with spiritual depth and pastoral concern.\",\n      \"why_adjacent\": \"Pearson's reluctance to explain suffering and her embrace of mystery align with Farley's apophatic theodicy. Both resist reductive answers while maintaining hope in divine presence and compassion.\",\n      \"key_work\": \"Tragic Vision and Divine Compassion: A Contemporary Theodicy\"\n    },\n    {\n      \"name\": \"Rita Nakashima Brock\",\n      \"description\": \"Theologian of relational power, Christian community, and healing from violence. Brock combines personal narrative, feminist theology, and prophetic critique of violence and domination.\",\n      \"why_adjacent\": \"Pearson's attention to vulnerability, her use of narrative, and her implicit critique of power dynamics align with Brock's work on relational justice and healing. Both center human dignity and interconnection.\",\n      \"key_work\": \"Journeys by Heart: A Christology of Erotic Power\"\n    },\n    {\n      \"name\": \"Samuel Keen\",\n      \"description\": \"Theologian and philosopher of imagination, mythology, and spiritual formation. Keen explores how imagination and narrative shape identity and faith, with an emphasis on freedom and creativity.\",\n      \"why_adjacent\": \"Pearson's narrative-driven approach to theology and her invitation to listeners to engage imaginatively with Scripture suggest kinship with Keen's understanding of imagination as constitutive of faith.\",\n      \"key_work\": \"To a Dancing God\"\n    },\n    {\n      \"name\": \"M. Shawn Copeland\",\n      \"description\": \"Womanist theologian of embodiment, resurrection, and racial justice. Copeland combines Black theology, feminist theory, and attention to Black women's suffering and agency in constructing emancipatory theology.\",\n      \"why_adjacent\": \"Pearson's incarnational theology, her use of African American spiritual resources, and her commitment to justice suggest alignment with Copeland's womanist theological vision.\",\n      \"key_work\": \"Enfleshing Freedom: Body, Race, and Being\"\n    },\n    {\n      \"name\": \"Andrew Greeley\",\n      \"description\": \"Priest-sociologist of imagination and imagination's role in religious experience; writes about the sacramental imagination and how narrative shapes religious understanding.\",\n      \"why_adjacent\": \"Pearson's sacramental-liturgical approach and her emphasis on narrative as theological medium align with Greeley's work on sacramental imagination and the role of image and story in faith.\",\n      \"key_work\": \"The Sacramental Imagination\"\n    },\n    {\n      \"name\": \"Dorothee S\u00f6lle\",\n      \"description\": \"German theologian, poet, and activist; synthesized mysticism and political theology; wrote against suffering and for liberation while maintaining contemplative depth. Prophetic and passionate.\",\n      \"why_adjacent\": \"S\u00f6lle combines apophatic theology with liberation theology\u2014precisely Pearson's intellectual move. Both are suspicious of theodicy and insist that God suffers with us; both emphasize active resistance to injustice.\",\n      \"key_work\": \"The Strength of the Weak: Toward a Christian Feminist Identity\"\n    },\n    {\n      \"name\": \"Anne Lamott\",\n      \"description\": \"Contemporary spiritual writer and novelist; combines humor, self-deprecation, honest struggle with faith, and passionate advocacy for the vulnerable. Accessible, narrative-driven, prophetic.\",\n      \"why_adjacent\": \"Pearson explicitly cites Lamott and shares her combination of vulnerability, humor, prophetic edge, and accessibility. Both model spiritual honesty without pretense.\",\n      \"key_work\": \"Help, Thanks, Wow: Three Essential Prayers\"\n    }\n  ],\n  \"voice_signature\": {\n    \"vocabulary\": \"Pearson uses precise theological vocabulary (incarnational, typology, apophatic, eschatological, liturgical) but always in service of accessibility rather than intimidation. She code-switches fluidly between formal liturgical language (from the BCP) and conversational diction. She favors concrete nouns and sensory imagery over abstraction. Words like 'attentive,' 'humble,' 'vulnerability,' 'mercy,' and 'witness' recur. She uses 'we' frequently, inviting listeners into shared discovery rather than positioning herself as expert.\",\n    \"sentence_structure\": \"Pearson favors longer, flowing sentences that mirror the movement of thought and spiritual journey\u2014sentences that unfold and circle back. She uses dashes, commas, and semicolons to create space for pause and qualification. Short sentences punctuate longer reflections for emphasis or invitation. Rhetorical questions appear frequently, drawing listeners into imaginative participation. She constructs parallel structures to create resonance (e.g., 'do justice, love kindness, walk humbly'). Periodic sentences that build toward a revelation are common.\",\n    \"humor\": \"Gentle and self-deprecating rather than punch-line oriented. Humor typically arises from honest acknowledgment of human contradiction, absurdity, or failure (e.g., parenting mishaps, personal spiritual struggles). She uses humor to build trust and to disarm defensiveness before making prophetic claims. Not sarcastic; warmth and genuine affection for the human condition underlie the humor.\",\n    \"difficult_topics\": \"Pearson doesn't avoid darkness\u2014violence, injustice, mortality, suffering\u2014but she refuses both despair and cheap theodicy. She names the harshness of biblical texts and Christian history without romanticizing them. When addressing suffering, she tends toward apophatic acknowledgment ('we don't have answers') rather than explanation. She invites listeners into the tension rather than resolving it prematurely. She centers the voices and dignity of the suffering rather than the suffering itself.\",\n    \"doubt_and_certainty\": \"Pearson holds deep convictions (incarnation matters, justice is biblical, God is trustworthy) while remaining genuinely open to mystery and reinterpretation. She models 'faithful questioning' rather than either dogmatism or skepticism. She's willing to say 'I don't know' and to sit with ambiguity. When she expresses certainty, it's grounded in Scripture, tradition, or lived experience, not assertion. She distinguishes between faith (trust in God) and certainty (intellectual comprehension) and privileges the former.\",\n    \"integration_of_sources\": \"Pearson moves between Scripture (especially John, Matthew, Luke), liturgical texts (BCP, collects, spirituals), theological voices (Taylor, Bonhoeffer, Nouwen, Davis), and personal narrative with seamless integration. She doesn't announce sources didactically but weaves them into the fabric of reflection. A single sermon might begin with a personal story, move into scriptural meditation, cite a theologian, reference a liturgical practice, and conclude with prophetic invitation\u2014each element supporting the others. She treats Scripture as living voice rather than historical artifact.\",\n    \"relationship_to_tradition\": \"High regard for liturgical and theological tradition (especially Anglican/Episcopal), but not uncritical. She reads tradition against itself\u2014using the prophetic voices within tradition (Isaiah, the Psalms, Bonhoeffer) to critique its failures (institutional exploitation, reductive theology, complicity with power). She's a reformer, not a revolutionary; she wants to deepen tradition's prophetic edge.\",\n    \"emotional_register\": \"Tender, passionate, and honest without sentimentality. She creates emotional resonance through specificity (details of the Colorado landscape, the bronze plaque, hospital visits) rather than manipulation. There's a quality of deep listening in her voice\u2014she hears listeners' unspoken struggles and names them gently. Urgency and invitation coexist; prophetic challenge never becomes hectoring.\"\n  },\n  \"generative_prompt_seed\": \"You are Katie Pearson, an Episcopal priest and preacher at Saint John's Cathedral in Denver. Your preaching is rooted in deep engagement with Scripture (especially the Gospels), the Book of Common Prayer and liturgical tradition, and contemporary theological voices\u2014particularly Barbara Brown Taylor, Bonhoeffer, and liberation theology. You combine pastoral warmth with prophetic edge, narrative storytelling with theological reflection, and accessibility with intellectual substance.\\n\\nYour theological commitments are incarnational (God's vulnerability in Jesus calls us to embody mercy and care), prophetic (justice is biblical and non-negotiable), and apophatic (mystery matters more than comprehension). You are suspicious of reductive answers, false certainties, and passive piety. You emphasize attentiveness, humility, and the integration of contemplation and prophetic action.\\n\\nYour voice is conversational yet precise, personal yet universal, tender yet prophetic. You use concrete narrative, sensory imagery, and rhetorical questions to invite listeners into imaginative participation. You move fluidly between Scripture, liturgical texts, theological references, and personal story without announcing transitions. You sit with tension and ambiguity rather than resolving them prematurely. You model faithful questioning and distinguish between"
+    }
+  },
+  "Broderick Greer": {
+    "aggregated_references": {
+      "top_thinkers": [
+        [
+          "Liberation theology (implicit)",
+          33
+        ],
+        [
+          "Rowan Williams",
+          30
+        ],
+        [
+          "Jesus Christ",
+          24
+        ],
+        [
+          "Incarnational theology",
+          18
+        ],
+        [
+          "Martin Luther King Jr.",
+          15
+        ],
+        [
+          "John the Baptist",
+          15
+        ],
+        [
+          "Incarnational theology (implicit)",
+          14
+        ],
+        [
+          "Alice Walker",
+          12
+        ],
+        [
+          "St. Paul",
+          12
+        ],
+        [
+          "Reverend Dr. Martin Luther King Jr.",
+          12
+        ],
+        [
+          "Dr. Martin Luther King Jr.",
+          11
+        ],
+        [
+          "Saint Paul",
+          10
+        ],
+        [
+          "Elizabeth Johnson",
+          9
+        ],
+        [
+          "Candace Simpson",
+          9
+        ],
+        [
+          "Mark Oakley",
+          8
+        ],
+        [
+          "John Donne",
+          7
+        ],
+        [
+          "Liberation theology (implied)",
+          7
+        ],
+        [
+          "James Baldwin",
+          6
+        ],
+        [
+          "Coretta Scott King",
+          6
+        ],
+        [
+          "Dorothy Sowell",
+          6
+        ]
+      ],
+      "top_books": [
+        [
+          "Book of Common Prayer",
+          14
+        ],
+        [
+          "King James Version",
+          8
+        ],
+        [
+          "King James Version (Bible translation)",
+          7
+        ],
+        [
+          "The Window of Vulnerability",
+          6
+        ],
+        [
+          "The Book of Common Prayer",
+          6
+        ],
+        [
+          "A Burst of Light",
+          6
+        ],
+        [
+          "The Color Purple",
+          6
+        ],
+        [
+          "Georgia Equal Rights League",
+          4
+        ],
+        [
+          "Real to Real: Race, Sex, and Class at the Movies",
+          4
+        ],
+        [
+          "Where the Spirit Is",
+          4
+        ],
+        [
+          "Mason Temple Church of God in Christ",
+          4
+        ],
+        [
+          "David Blight's Biography of Frederick Douglass",
+          4
+        ],
+        [
+          "Aurora Leigh (or selected poems by Elizabeth Barrett Browning)",
+          3
+        ],
+        [
+          "Alice Walker, 1982 essay (nuclear disarmament speech at Grace Cathedral)",
+          3
+        ],
+        [
+          "Andre Rublev's Icon, the Trinity",
+          3
+        ]
+      ],
+      "traditions": [
+        [
+          "Liberation theology",
+          65
+        ],
+        [
+          "Sacramental theology",
+          24
+        ],
+        [
+          "Incarnational theology",
+          21
+        ],
+        [
+          "Prophetic tradition",
+          19
+        ],
+        [
+          "Resurrection theology",
+          18
+        ],
+        [
+          "Liberation theology (implicit)",
+          13
+        ],
+        [
+          "Pentecostalism",
+          10
+        ],
+        [
+          "Sacramental theology / Eucharistic theology",
+          9
+        ],
+        [
+          "Incarnation theology",
+          9
+        ],
+        [
+          "Christian mysticism",
+          8
+        ]
+      ]
+    },
+    "influence_map": {
+      "raw_response": "```json\n{\n  \"intellectual_profile\": \"Broderick Greer is a prophetic-pastoral theologian operating at the intersection of liberation theology and sacramental mysticism, situated decisively on the progressive end of the Anglican spectrum while maintaining deep rootedness in liturgical tradition. His intellectual world is fundamentally narrative and experiential rather than systematic\u2014he thinks through stories, lived witness, and embodied practices rather than abstract propositions. Greer occupies the productive tension between scholarly rigor (evident in his engagement with biblical exegesis, historical theology, and literary analysis) and radical accessibility, translating complex theological commitments into language that speaks to immediate spiritual and political urgency. He is neither a pure academic theologian nor a merely devotional preacher; instead, he functions as a contemplative activist-intellectual whose thinking moves deliberately from attentiveness to God's presence in ordinary life toward prophetic witness against injustice. His work is characterized by what might be called 'incarnational radicalism'\u2014a conviction that God's identification with creation, particularly the vulnerable and excluded, demands both spiritual depth and political commitment.\",\n\n  \"theological_commitments\": {\n    \"core_convictions\": [\n      \"Incarnational theology as the hinge of all Christian faith: God's radical identification with human flesh, especially the despised and marginalized, fundamentally restructures what it means to encounter the divine. This is not merely doctrinal but determinative for ethics and spirituality.\",\n      \"Liberation as God's consistent historical project: From Exodus through Jesus's crucifixion to contemporary LGBTQ+ resistance, God's liberatory action reveals divine character. Theology must be evaluated by its capacity to free the oppressed.\",\n      \"The body as sacred site: Greer's theology is radically incarnational\u2014not dualistic. Physical pleasure (peaches, friendship, sexuality), embodied resistance, and sacramental touch are not distractions from spirituality but its truest expression.\",\n      \"Sacramental presence as political witness: The Eucharist is not merely private devotion but prophetic sign that God feeds the hungry, welcomes the excluded, and sustains resistance to empire. Liturgy and justice are inseparable.\",\n      \"Resurrection as embodied transformation, not escape: The resurrection does not deny suffering but transforms it. The wounded Christ (five wells of mercy, grace, comfort, pity, life) reveals God's solidarity with suffering humanity and promises not disembodied immortality but healed, inclusive, joyful community.\",\n      \"Joy as theological category and moral imperative: Joy is not denial of suffering but its counter-witness\u2014a sign of God's life-affirming presence and refusal to let despair have the final word. Joy is revolutionary.\",\n      \"Attentiveness as spiritual practice and moral foundation: Seeing God in all things, hearing others' 'bids' (invitations), and cultivating contemplative perception are not luxuries but the spiritual basis for justice work and authentic relationship.\",\n      \"Language as inadequate but necessary: Theological language (including creeds, scripture) approximates but never exhausts divine reality. This epistemic humility calls for deeper union with God and one another rather than doctrinal certainty.\",\n      \"LGBTQ+ inclusion as theological necessity, not accommodation: Queer people are not added to the body of Christ but intrinsic to it. Their liberation struggle participates in God's liberatory work throughout history.\"\n    ],\n    \"implicit_theology\": \"Greer's deepest theological commitment, often implicit, is a radical trust in God's goodness and the interconnectedness of all creation. Violence, in all its forms (physical, structural, spiritual), represents a 'failure of imagination'\u2014an inability to perceive the fundamental unity and preciousness already present in God. His theology operates on the conviction that the world is not primarily broken but beloved; injustice is not cosmically inevitable but a choice born from forgetting. This grounds both his prophetic urgency (injustice is inexcusable) and his mystical hope (transformation is possible because it's rooted in God's character).\"\n  },\n\n  \"adjacent_voices\": [\n    {\n      \"name\": \"James H. Cone\",\n      \"description\": \"Foundational Black liberation theologian who grounded Christian theology explicitly in the African American experience and the struggle against racism.\",\n      \"adjacency\": \"Greer's frequent citation of MLK and engagement with liberation theology implicitly draws on Cone's fundamental insight that God sides with the oppressed. Cone's insistence that Christ is Black would resonate deeply with Greer's incarnational radicalism.\",\n      \"key_work\": \"A Black Theology of Liberation (1970)\"\n    },\n    {\n      \"name\": \"Delores S. Williams\",\n      \"description\": \"Womanist theologian who centered Black women's experiences and survival narratives as theological sources, critiquing both white feminism and male-centered Black theology.\",\n      \"adjacency\": \"Greer's citation of Alice Walker and his attention to vulnerable, marginalized voices suggests deep alignment with Williams's womanist methodology. Her emphasis on survival and resistance through community mirrors his themes.\",\n      \"key_work\": \"Sisters in the Wilderness: The Challenge of Womanist God-Talk (1993)\"\n    },\n    {\n      \"name\": \"Gustavo Guti\u00e9rrez\",\n      \"description\": \"Founder of liberation theology who insisted that authentic theology emerges from commitment to the poor and demands concrete liberation praxis.\",\n      \"adjacency\": \"Greer's 65 references to liberation theology likely engage (directly or osmotically) Guti\u00e9rrez's foundational vision. His insistence that contemplation and action are inseparable aligns precisely with Greer's prophetic-pastoral integration.\",\n      \"key_work\": \"A Theology of Liberation (1971)\"\n    },\n    {\n      \"name\": \"Dorothee S\u00f6lle\",\n      \"description\": \"German theologian of suffering who developed a 'mysticism and resistance' framework, insisting that contemplative practice and political activism are mutually necessary.\",\n      \"adjacency\": \"S\u00f6lle's integration of personal vulnerability, mystical experience, and prophetic witness directly parallels Greer's pastoral-prophetic style. Her attention to how language fails before suffering echoes Greer's Good Friday theology.\",\n      \"key_work\": \"The Strength of the Weak: Toward a Christian Feminist Identity (1984)\"\n    },\n    {\n      \"name\": \"Katie Geneva Cannon\",\n      \"description\": \"Womanist ethicist who retrieved Black women's moral wisdom from literature and life, insisting that ethics emerges from concrete struggle and imagination.\",\n      \"adjacency\": \"Greer's use of Alice Walker and literary sources for theological reflection directly parallels Cannon's methodology. Both insist that moral wisdom emerges from narrative and lived experience.\",\n      \"key_work\": \"Black Womanist Ethics (1995)\"\n    },\n    {\n      \"name\": \"Ivone Gebara\",\n      \"description\": \"Brazilian feminist liberation theologian who grounded theology in women's daily struggles and interconnectedness with creation.\",\n      \"adjacency\": \"Gebara's insistence on the sacred dignity of embodied life, attention to women's experience, and integration of spiritual-political liberation align with Greer's incarnational radicalism and his commitment to wholeness.\",\n      \"key_work\": \"Longing for Running Water: Ecofeminism and Liberation (1994)\"\n    },\n    {\n      \"name\": \"Barbara Brown Taylor\",\n      \"description\": \"Contemporary Episcopal priest-theologian known for grounding theology in sensory experience, natural world observation, and contemplative accessibility.\",\n      \"adjacency\": \"Taylor's method of finding God in ordinary, physical experience ('practicing resurrection') and her contemplative accessibility directly parallel Greer's 'God Scout' approach and his use of domestic, natural imagery.\",\n      \"key_work\": \"An Altar in the World: Finding the Sacred in Everyday Life (2009)\"\n    },\n    {\n      \"name\": \"Wendy Farley\",\n      \"description\": \"Theologian of eros and passion who insists that desire, beauty, and sensory delight are theological categories pointing toward divine reality.\",\n      \"adjacency\": \"Greer's celebration of joy, embodied pleasure (peaches, friendship), and sensory-spiritual integration finds a theoretical companion in Farley's theological reclamation of eros as divine signature.\",\n      \"key_work\": \"Tragic Vision and Divine Compassion (1990)\"\n    },\n    {\n      \"name\": \"Phyllis Trible\",\n      \"description\": \"Biblical scholar who uses rhetorical and narrative criticism to retrieve women's voices from scripture and to read the Bible through feminist hermeneutics.\",\n      \"adjacency\": \"Greer's method of biblical exegesis that attends to narrative detail, characterization, and submerged voices parallels Trible's feminist-literary approach to scripture.\",\n      \"key_work\": \"Texts of Terror: Literary-Feminist Readings of Biblical Narratives (1984)\"\n    },\n    {\n      \"name\": \"Jennings Wheeler\",\n      \"description\": \"Contemporary theologian exploring Black racial imagination, Christian identity, and the political theology of Blackness.\",\n      \"adjacency\": \"Greer's implicit engagement with Black theological tradition and his attention to how identity formations (including LGBTQ+ identity) relate to liberation and divine welcome suggest affinity with Wheeler's work on racial imagination.\",\n      \"key_work\": \"The Christian Imagination: Theology, Culture, and Race (2018)\"\n    },\n    {\n      \"name\": \"Susan Sontag\",\n      \"description\": \"Essayist and theorist who explored how interpretation functions, the ethics of representation, and the politics of suffering and beauty.\",\n      \"adjacency\": \"Greer's sophisticated use of cultural commentary (museums, Amazon, consumerism) and his attention to how vision is shaped by power structures align with Sontag's cultural-critical methodology.\",\n      \"key_work\": \"Against Interpretation (1966)\"\n    },\n    {\n      \"name\": \"Sallie McFague\",\n      \"description\": \"Theologian who developed metaphorical and ecological theology, insisting that God-language must be pluralized and that Christian faith demands ecological responsibility.\",\n      \"adjacency\": \"Greer's incarnational theology that emphasizes God's identification with all creation and his use of accessible metaphor over systematic theology parallels McFague's metaphorical approach.\",\n      \"key_work\": \"The Body of God: An Ecological Theology (1993)\"\n    },\n    {\n      \"name\": \"Patrick S. Cheng\",\n      \"description\": \"Contemporary theologian of LGBTQ+ inclusion who grounds queer theology in incarnational and trinitarian doctrine.\",\n      \"adjacency\": \"Greer's explicit theology of LGBTQ+ inclusion as intrinsic to the body of Christ and his connection of queer liberation to God's liberatory work directly parallels Cheng's incarnational queer theology.\",\n      \"key_work\": \"Radical Love: An Introduction to Queer Theology (2011)\"\n    },\n    {\n      \"name\": \"Margaret Miles\",\n      \"description\": \"Art historian and theologian who explores how vision, beauty, and image function theologically and how art participates in spiritual formation.\",\n      \"adjacency\": \"Greer's use of Rublev's Trinity icon and his attention to how museums and visual art shape spiritual perception align with Miles's theological aesthetics.\",\n      \"key_work\": \"Image as Insight: Visual Understanding in Western Christianity (1985)\"\n    },\n    {\n      \"name\": \"Vincent Wimbush\",\n      \"description\": \"Biblical scholar and cultural theorist who reads scripture through African diaspora experience and performance studies.\",\n      \"adjacency\": \"Greer's narrative-lyrical style and his attention to how scripture is performed, interpreted, and lived in community (especially Black church tradition) parallel Wimbush's methodology.\",\n      \"key_work\": \"The Bible and the African American Experience (2003)\"\n    }\n  ],\n\n  \"voice_signature\": {\n    \"vocabulary_patterns\": {\n      \"formal_registers\": \"Greer moves easily between liturgical language ('creedal language,' 'Eucharistic presence,' 'sacramental mystery') and academic theological vocabulary ('typology,' 'incarnational,' 'prophetic tradition') without condescension. These terms feel organic, not deployed.\",\n      \"accessible_language\": \"Despite theological sophistication, Greer consistently makes ideas concrete: 'peaches,' 'highway analogies,' 'Amazon purchases,' 'Texas regionalism,' 'friendship.' He trusts sensory and domestic imagery to carry theological weight.\",\n      \"distinctive_phrases\": \"Greer favors language of 'attentiveness,' 'vulnerability,' 'imagination,' 'radical welcome,' and 'liberation.' He uses words like 'reckless,' 'shameless,' 'bid' (for invitations), and 'gift' with theological precision. He speaks of 'stripping away,' 'tearing through barriers,' 'wells,' and 'wounding' as sites of grace.\",\n      \"register_blending\": \"A sentence might move from personal anecdote to biblical exegesis to prophetic declaration without apparent seam: 'As my mother taught me over peaches on the porch, so Paul insists, so the gospel declares: God's love is not earned but given.'\"\n    },\n    \"sentence_structure\": {\n      \"foundational_pattern\": \"Greer favors longer, syntactically complex sentences that build through accumulation and parallelism, mirroring liturgical and biblical cadence. Short sentences are reserved for prophetic weight: 'Violence is a failure of imagination.'\",\n      \"parallelism\": \"Frequent use of parallel structure, often triadic: 'From Exodus to Crucifixion to Resurrection,' 'seeing God in nature, in others, even in suffering.' This creates rhythmic, memorable quality suitable for oral delivery.\",\n      \"meditation_vs_argument\": \"Rather than linear argumentation, Greer's sentences meditate, circling, returning, deepening. A theme introduced early will be revisited from new angles: 'The wounds are wells... wells of mercy... wells that invite us closer...' This is mystic, not scholastic.\",\n      \"oral_quality\": \"Every sentence is written for the ear. Greer reads scripture aloud, quotes poetry aloud, invites silence aloud. Punctuation often serves rhythm rather than strict grammar: ellipses, dashes, and line breaks create breathing room.\"\n    },\n    \"use_of_humor\": {\n      \"humor_function\": \"Humor is strategic and sparse, never mere entertainment. It serves to defamiliarize the familiar, expose hypocrisy, or create intimacy. Examples: Texas regionalism jokes about consumerism, 'Amazon' reference.\",\n      \"tone\": \"Humor is warm and slightly self-deprecating rather than harsh. It invites congregation into recognition ('haven't we all?') rather than judgment. Often emerges from domestic, ordinary situations rather than clever wordplay.\",\n      \"absence_of_humor\": \"Greer can sustain passages without humor while maintaining engagement\u2014a mark of his authority. Difficult theological or historical content is not lightened with humor but held with solemnity and care.\"\n    },\n    \"handling_difficult_topics\": {\n      \"approach\": \"Greer names evil, injustice, and suffering directly without euphemism. He speaks of 'violence,' 'torture,' 'oppression,' 'brutality'\u2014including Christian complicity. But he never dwells in despair.\",\n      \"structure\": \"Difficult topics are typically held within larger theological narrative that affirms resurrection, joy, God's character. The movement is: acknowledgment \u2192 theological context \u2192 invitation to transformation. Never: acknowledgment \u2192 despair.\",\n      \"vulnerability\": \"Greer admits personal wrestling, spiritual doubt, and emotional response to suffering. This is not weakness but witness. He confesses confusion and then moves to deeper faith, not false certainty.\",\n      \"prophetic_directness\": \"When addressing institutional church failure or political violence, Greer speaks with prophetic clarity but without contempt. The tone is 'we have been asleep' not 'you are evil.'\"\n    },\n    \"relationship_with_doubt_and_certainty\": {\n      \"embrace_of_mystery\": \"Greer is confident in God's character (love, liberation, goodness) but epistemically humble about theological language. 'All theological language is an approximation.' This is not apologetic but liberating.\",\n      \"faith_without_closure\": \"He presents 'unresolved endings' as theologically normative. The gospel doesn't provide certainty but invitation to obedience amid uncertainty. This requires courage, not blind faith.\",\n      \"contemplative_stance\": \"Greer's stance toward difficult questions is meditative rather than defensive. Rather than prove God's goodness, he invites the hearer to experience it through attentiveness and imagination.\",\n      \"both_and_thinking\": \"Greer habitually holds tensions: cross AND resurrection, vulnerability AND strength, individual AND communal, mystical AND political, tradition AND prophetic rupture. He resists either/or thinking.\"\n    },\n    \"movement_between_sources\": {\n      \"scripture_as_living\": \"Scripture is not historical artifact but living word. Greer cites biblical passages as if they are speaking now, in present tense. Exodus is not past event but"
+    }
+  },
+  "Jack Karn": {
+    "aggregated_references": {
+      "top_thinkers": [
+        [
+          "Incarnational theology (implied)",
+          3
+        ],
+        [
+          "Liberation theology (implied)",
+          3
+        ],
+        [
+          "Leonel Mitchell",
+          3
+        ],
+        [
+          "Incarnational theology / Christological presence",
+          3
+        ],
+        [
+          "Liberation theology (implicit)",
+          3
+        ],
+        [
+          "Michelangelo",
+          3
+        ],
+        [
+          "Liberation/Incarnational theology (implicit)",
+          3
+        ],
+        [
+          "Resurrection theology (implicit)",
+          3
+        ],
+        [
+          "St. Anselm",
+          3
+        ],
+        [
+          "Archbishop Desmond Tutu",
+          3
+        ],
+        [
+          "Liberation/justice theology (implicit)",
+          3
+        ],
+        [
+          "Saint Luke the Physician and Evangelist",
+          3
+        ],
+        [
+          "Dietrich Bonhoeffer",
+          3
+        ],
+        [
+          "Cheap grace (Bonhoeffer's concept)",
+          3
+        ],
+        [
+          "\"The increase of true religion, as our colleague puts it\"",
+          2
+        ],
+        [
+          "Richard (morning speaker reference)",
+          2
+        ],
+        [
+          "Liberation through Christ",
+          2
+        ],
+        [
+          "Human nature and transcendence",
+          2
+        ],
+        [
+          "Battle of Culloden",
+          2
+        ],
+        [
+          "Reverend Dr. Peter Marshall",
+          2
+        ]
+      ],
+      "top_books": [
+        [
+          "Praying Shapes Believing",
+          3
+        ],
+        [
+          "The Creation of Adam",
+          3
+        ],
+        [
+          "Book of Common Prayer",
+          2
+        ],
+        [
+          "Sistine Chapel",
+          2
+        ],
+        [
+          "Act of Proscription (1746)",
+          2
+        ],
+        [
+          "Amazing Grace (hymn)",
+          2
+        ]
+      ],
+      "traditions": [
+        [
+          "Christian discipleship tradition",
+          5
+        ],
+        [
+          "Eucharist/Communion",
+          3
+        ],
+        [
+          "Christian hospitality tradition",
+          3
+        ],
+        [
+          "Social justice theology (implied)",
+          3
+        ],
+        [
+          "Christian theology of divine presence in weakness",
+          3
+        ],
+        [
+          "Liberation theology / dignity of the marginalized",
+          3
+        ],
+        [
+          "Art as spiritual and healing practice",
+          3
+        ],
+        [
+          "The Gospel / Gospel message",
+          3
+        ],
+        [
+          "Christian ethics of forgiveness and charity",
+          3
+        ],
+        [
+          "Prophetic tradition (Christian)",
+          3
+        ]
+      ]
+    },
+    "influence_map": {
+      "intellectual_profile": "Jack Karn is a pastoral theologian working squarely within the prophetic-incarnational tradition of the Episcopal Church, situated firmly on the progressive end of Christian thought while remaining deeply rooted in classical Anglican liturgy and patristic sources. He operates as a bridge-builder between academic theological discourse and congregational witness\u2014neither a pure systematician nor an anti-intellectual narrative preacher, but someone who thinks theologically *through* stories, liturgical practice, and concrete social encounter. His intellectual world is shaped by liberation theology's insistence on God's preferential option for the marginalized, incarnational theology's emphasis on divine presence in matter and flesh, and the Anglican sacramental tradition's conviction that the material world mediates grace. He reads widely (Bonhoeffer, Tutu, Mitchell, Anselm) but wears his learning lightly, always subordinating intellectual precision to pastoral authenticity and prophetic urgency. Karn thinks best when standing at the intersection of art and justice, liturgy and social change, personal testimony and communal responsibility.",
+      "theological_commitments": "At the deepest level, Karn's theology is *christological*\u2014specifically, a Christ who appears in the faces of the poor, the marginalized, and the excluded. His incarnational commitments mean he believes God's redemptive work happens not in escape from the world but in radical engagement with human suffering and dignity. Justice is not ancillary to his gospel; it is constitutive. The table\u2014both eucharistic and communal\u2014functions as his central theological symbol: it represents radical inclusion, boundary-crossing love, and the church's prophetic witness against all systems of exclusion. He is deeply committed to touch, embodiment, and the physical reality of grace; there is nothing merely spiritual about his faith. Bonhoeffer's concept of 'cheap grace' clearly shapes his insistence that discipleship must be costly, concrete, and visible. He honors the classical Christian traditions (the Psalms, the early church, the liturgy) but reads them through a liberationist lens\u2014asking always: whose voices are centered? who is at the table? who is being healed? Finally, Karn holds a theology of *resurrection hope*\u2014the conviction that Christian faith is fundamentally about God's power to create new life, restore dignity, and overcome violence, oppression, and despair. This is not naive optimism but hard-won hope grounded in witness.",
+      "adjacent_voices": [
+        {
+          "name": "William Cavanaugh",
+          "description": "Theologian of the Eucharist and Christian imagination; explores how liturgical practice shapes political and social consciousness",
+          "why_adjacent": "Shares Karn's conviction that the Eucharist is not merely personal spiritual nourishment but a political and prophetic act; bridges sacramental theology with justice concerns",
+          "key_work": "Torture and Eucharist: Theology, Politics, and the Body of Christ"
+        },
+        {
+          "name": "Katie Geneva Cannon",
+          "description": "African American womanist ethicist; grounds theological ethics in the lived experience of Black women and other marginalized communities",
+          "why_adjacent": "Shares Karn's move from personal narrative and communal testimony to prophetic theological insight; similarly insists that the marginalized are the primary locus of God's revelation",
+          "key_work": "Black Womanist Ethics"
+        },
+        {
+          "name": "Walter Brueggemann",
+          "description": "OT scholar and prophetic pastoral theologian; reads Scripture as a countercultural imagination for justice and resistance",
+          "why_adjacent": "Like Karn, Brueggemann uses the prophetic tradition as a resource for contemporary prophetic preaching; similarly committed to pastoral witness rooted in deep textual and theological work",
+          "key_work": "The Prophetic Imagination"
+        },
+        {
+          "name": "James Cone",
+          "description": "Founder of Black liberation theology; insists that Christian faith must be read through the lens of Black suffering and resistance",
+          "why_adjacent": "Shares Karn's conviction that Christ is found first among the oppressed; similarly rejects any Christianity that ignores social location and injustice",
+          "key_work": "God of the Oppressed"
+        },
+        {
+          "name": "Rowan Williams",
+          "description": "Former Archbishop of Canterbury; theologian of the body, desire, and mystical encounter; deeply sacramental and incarnational",
+          "why_adjacent": "Shares Karn's incarnational theology and liturgical sensibility; similarly insists on the body as a locus of divine presence; combines intellectual rigor with pastoral sensitivity",
+          "key_work": "The Body's Grace"
+        },
+        {
+          "name": "Simone Weil",
+          "description": "Mystic-philosopher; explores how attention, suffering, and divine presence intersect; emphasizes touch and physical labor as spiritual practice",
+          "why_adjacent": "Shares Karn's conviction that God meets us in weakness and suffering; similarly insists on the sacrality of the material and the body; bridges mystical and political concerns",
+          "key_work": "Waiting for God"
+        },
+        {
+          "name": "Grace M. Jantzen",
+          "description": "Feminist philosopher of religion; examines how embodiment, mysticism, and justice concerns intersect; challenges dualistic thinking",
+          "why_adjacent": "Shares Karn's integration of contemplative/liturgical practice with justice work; similarly refuses to separate the spiritual from the political",
+          "key_work": "Power, Gender and Christian Mysticism"
+        },
+        {
+          "name": "Andrew Sung Park",
+          "description": "Korean American theologian; developed the concept of 'han'\u2014unresolved resentment and wounded heart\u2014as a lens for understanding suffering and healing",
+          "why_adjacent": "Shares Karn's focus on healing presence and touch as redemptive; similarly insists that Christ's work is about restoration of human dignity and wholeness",
+          "key_work": "The Wounded Heart of God: The Asian Concept of Han and the Christian Doctrine of Sin"
+        },
+        {
+          "name": "Barbara Brown Taylor",
+          "description": "Contemporary Episcopal priest and theologian; known for poetic pastoral preaching that integrates nature, doubt, and incarnational theology",
+          "why_adjacent": "Shares Karn's Anglican sacramental sensibility and narrative pastoral style; similarly integrates personal testimony with prophetic insight; similar rhetorical warmth and accessibility",
+          "key_work": "An Altar in the World"
+        },
+        {
+          "name": "Jennings Willie James",
+          "description": "Christian educator; explores how imagination, community, and contemplative practice shape spiritual formation and justice consciousness",
+          "why_adjacent": "Shares Karn's integration of contemplation and action; similarly emphasizes the pedagogical and formative power of liturgical practice and communal witness",
+          "key_work": "The Christian Imagination: Theology, Culture, and Race"
+        },
+        {
+          "name": "Sallie McFague",
+          "description": "Theologian of metaphor and ecological theology; uses imaginative, embodied language to reimagine divine presence and human responsibility",
+          "why_adjacent": "Shares Karn's commitment to making theological language accessible and imaginative; similarly uses art and embodiment as theological resources",
+          "key_work": "Models of God: Theology for an Ecological, Nuclear Age"
+        },
+        {
+          "name": "M. Shawn Copeland",
+          "description": "Womanist theologian; integrates Black liberation theology, feminist theology, and sacramental theology; emphasizes the redemptive power of bodies and communities",
+          "why_adjacent": "Shares Karn's focus on the body as site of divine action and healing; similarly insists that the marginalized are primary witnesses to God's redemptive work",
+          "key_work": "Enfleshing Freedom: Body, Race, and Being"
+        },
+        {
+          "name": "Eugene Peterson",
+          "description": "Presbyterian pastor-theologian; known for integration of Scripture, pastoral practice, and contemplative spirituality; advocates for 'spiritual direction' in pastoral ministry",
+          "why_adjacent": "Shares Karn's commitment to pastoral authenticity and narrative-driven theology; similarly integrates deep textual work with spiritual formation and witness",
+          "key_work": "The Pastor: A Memoir"
+        },
+        {
+          "name": "Douglas John Hall",
+          "description": "Canadian Reformed theologian; developed the theology of the 'cross and the sword'\u2014Christ's vulnerable presence confronting systems of power; deeply pastoral",
+          "why_adjacent": "Shares Karn's prophetic incarnationalism and emphasis on Christ's kenotic, vulnerable presence; similarly rooted in Reformed/Anglican tradition but reading it prophetically",
+          "key_work": "Lighten Our Darkness: Toward an Indigenous Theology of the Cross"
+        },
+        {
+          "name": "bell hooks",
+          "description": "Theorist and cultural critic; integrates spirituality, education, love, and justice; insists on the spiritual power of beloved community and healing",
+          "why_adjacent": "Shares Karn's conviction that healing and justice are spiritual practices; similarly emphasizes love as a revolutionary force and community as redemptive space",
+          "key_work": "All About Love: New Visions"
+        }
+      ],
+      "voice_signature": {
+        "vocabulary_patterns": "Karn moves fluidly between liturgical/ecclesiastical vocabulary (the table, the eucharist, the canon, incarnational presence) and the vernacular language of contemporary social concern (the marginalized, the unhoused, boundaries of exclusion). He avoids academic jargon but is comfortable with theological precision when it serves pastoral understanding. His language is tactile and sensory\u2014he speaks of 'touch,' 'taste,' 'seeing Christ's face'\u2014rather than abstract. He uses words like 'hesed' (loving-kindness) and 'cheap grace' as touchstones, but always explains them through story and example. His vocabulary suggests someone who reads deeply but preaches to real people.",
+        "sentence_structure": "Karn favors longer, baroque sentences that build through accumulation and parallel structure, especially when moving toward prophetic exhortation ('be humble, be inclusive, be one'). He frequently uses rhetorical questions to draw the congregation into theological reflection ('Do what? Love? Who?'). His narrative sections are more direct and conversational; his theological passages are more elaborate. He rarely uses fragments for shock value; instead, his punctuation is traditional and careful, suggesting liturgical formality. He often moves through a tripartite structure: personal/pastoral anecdote, scriptural/theological reflection, prophetic challenge or communal invitation. His sentences breathe\u2014they have room for the listener to think.",
+        "humor_and_tone": "Karn's humor is gentle and self-deprecating rather than laugh-out-loud funny. He uses humor to create intimacy and disarm defensive listening, not to entertain. His tone is warm, invitational, and prophetic without being angry or shrill. He sounds like someone who has suffered and reflected, not someone without doubt. There is a quality of profound seriousness underneath\u2014he is addressing life-and-death matters\u2014but never grimness. He conveys both urgency and patience.",
+        "handling_difficult_topics": "Karn does not shy away from violence, injustice, racism, imprisonment, abuse, or suffering. But he approaches these topics through concrete pastoral encounter (Tracy, Juanita, the unhoused people he serves) rather than abstract denunciation. He names systems of injustice clearly but always with an ear toward the redemptive possibility. His prophetic challenge is never merely accusatory; it is always an invitation to transformation rooted in Christ's love. When addressing difficult topics, he tends to move from personal testimony (establishing credibility and shared humanity) to communal examples to prophetic call. He does not hide the cost of discipleship.",
+        "relationship_with_doubt_and_certainty": "Karn does not sound like someone who has achieved absolute theological certainty. He speaks with conviction about Christ's resurrection, God's liberating love, and the church's call to justice\u2014but he reaches these convictions through encounter and reflection, not from a position of detachment. He is comfortable with mystery (the awe and wonder theme appears repeatedly). He uses phrases like 'as our colleague puts it' and 'as the tradition suggests,' indicating humility about his own insights. Yet he is also willing to make bold theological claims\u2014'Christ is present in the marginalized'\u2014with pastoral confidence. This balance between confidence and openness is crucial to his voice.",
+        "movement_between_sources": "Karn weaves together Scripture, liturgical practice, patristic and contemporary theological sources, art, and personal witness as if they were all part of a single theological conversation. A typical movement: he begins with a pastoral anecdote, quotes Scripture, reflects on the theology (perhaps invoking Bonhoeffer or Tutu), pauses to contemplate an artwork (Michelangelo), and concludes with a prophetic challenge rooted in the liturgy. He moves between these sources without transition statements; they feel organic to his thought. Scripture is always primary, but it is illumined by the tradition and by lived experience. He is equally comfortable quoting the Book of Common Prayer and describing his wife's art project."
+      },
+      "generative_prompt_seed": "You are Canon Jack Karn, an Episcopal priest serving as a Canon at Saint John's Cathedral in Denver. You are a prophetic pastoral theologian rooted in incarnational and liberation theology. Your preaching integrates four core elements: (1) Personal pastoral narrative and lived encounter with the marginalized, poor, and suffering; (2) Deep engagement with Scripture, especially the Psalms and Gospels, read through a justice-oriented lens; (3) Liturgical-sacramental theology centered on the Eucharist as a sign and means of radical inclusion and healing; (4) Contemporary prophetic challenge that calls the congregation to costly discipleship and embodied justice work. Your intellectual influences include Dietrich Bonhoeffer (especially his critique of 'cheap grace'), Desmond Tutu, liberation theologians, and the incarnational theology of thinkers like Leonel Mitchell. You frequently cite the Book of Common Prayer, the Psalms, and works of art (especially Michelangelo's 'Creation of Adam'). Your theological convictions are: Christ is present in the faces of the marginalized; God's redemptive work happens through healing touch and vulnerable presence; the church's worship must translate directly into missional justice work; Christian discipleship requires daily, concrete embodiment of Christ's love; and hope in resurrection is the antidote to despair. Your rhetorical style: Begin with a concrete pastoral anecdote or personal testimony that establishes intimacy and credibility. Move into scriptural reflection, weaving in theological sources that illuminate the Scripture. Use metaphor (especially the table, touch, boundaries, inclusion) as theological tools. Build toward a prophetic exhortation that is clear, direct, and invitational (not accusatory). Always move from personal/pastoral to communal to prophetic. Your voice: warm, serious, unhurried, and confident without being dogmatic. Use sensory, tactile language. Ask genuine rhetorical questions. Integrate liturgical language naturally. Avoid academic jargon but welcome theological precision. Honor mystery and doubt while speaking with pastoral conviction. Your purpose: help the congregation encounter Christ in the suffering and marginalized, recognize God's healing presence in the world, and commit to lives of loving action and justice-making. You preach hope rooted in resurrection and love rooted in Christ's scandalous inclusion."
+    }
+  },
+  "Deonna Neal": {
+    "aggregated_references": {
+      "top_thinkers": [
+        [
+          "Dialogical theology / Address and personhood",
+          3
+        ],
+        [
+          "Relational theology of personhood",
+          3
+        ],
+        [
+          "Jesus Christ (Christological teaching on persistence and prayer)",
+          3
+        ],
+        [
+          "The Third Servile War and Spartacus",
+          3
+        ],
+        [
+          "The Appian Way (Via Appia)",
+          3
+        ],
+        [
+          "Redemption/atonement theology (trampling down death by death)",
+          3
+        ],
+        [
+          "Atonement theology (Christ trampling down death by death)",
+          3
+        ],
+        [
+          "Lens of faith vs. worldly perspective",
+          3
+        ],
+        [
+          "Sacrifice and kenosis (self-emptying love)",
+          3
+        ],
+        [
+          "Paul (the Apostle)",
+          2
+        ],
+        [
+          "Pilate (Pontius Pilate)",
+          2
+        ],
+        [
+          "Galatians 3:28 (implicit reference)",
+          2
+        ],
+        [
+          "Paul",
+          2
+        ],
+        [
+          "Etymology: 'excruciating' from 'ex cruce' (out of the cross)",
+          2
+        ]
+      ],
+      "top_books": [
+        [
+          "The Book of Common Prayer / Prayer Book",
+          2
+        ]
+      ],
+      "traditions": [
+        [
+          "Buddhism",
+          4
+        ],
+        [
+          "Christian baptismal tradition and theology",
+          3
+        ],
+        [
+          "The Book of Jeremiah / Jeremiah's prophetic tradition",
+          3
+        ],
+        [
+          "Covenant theology / theology of God's character",
+          3
+        ],
+        [
+          "Roman Empire political history",
+          3
+        ],
+        [
+          "Incarnational theology (Christian doctrine)",
+          3
+        ],
+        [
+          "Third Servile War / Spartacus Revolt",
+          3
+        ],
+        [
+          "Roman Empire political and judicial practices",
+          3
+        ],
+        [
+          "Incarnational theology",
+          3
+        ],
+        [
+          "Christian discipleship and spiritual failure",
+          3
+        ]
+      ]
+    },
+    "influence_map": {
+      "raw_response": "```json\n{\n  \"intellectual_profile\": \"Deonna Neal is a narrative-historical theologian working in the pastoral register, situated in the broad Christian incarnational tradition but animated by comparative and relational concerns. She occupies the middle ground between academic rigor and congregational accessibility\u2014her sermons display careful historical knowledge (Roman imperial structures, first-century Jewish expectations, Buddhist philosophical frameworks) deployed not for scholarly display but for existential illumination. She is neither systematically dogmatic nor casually devotional; instead, she uses precise theological language (kenosis, atonement, dialogical theology, covenant) as tools for helping ordinary believers see ancient texts as mirrors of their own spiritual crisis and possibility. Her intellectual orientation is fundamentally relational and prophetic: she reads Scripture and tradition not as settled doctrine but as living address that demands response. She draws from multiple traditions (Christian, Buddhist, Jewish prophetic) without collapsing them into syncretism, suggesting a generous but discriminating theological pluralism. She is decidedly non-triumphalist\u2014interested in vulnerability, failure, and the scandal of the cross\u2014and her reference to the Third Servile War and Appian Way crucifixions suggests she reads Christian theology against the grain of empire, as a radical critique of worldly power. She is contemporary without being trendy: her invocation of 'depersonalization' and modern evaluation systems grounds ancient theology in lived experience, but she never reduces Scripture to self-help.\",\n  \n  \"theological_commitments\": \"At the deepest level, Neal is committed to a theology of personhood grounded in divine address and relational being rather than individual achievement or instrumental value. From her baptismal theology emerges an ethic: how we speak to and about one another is not peripheral but covenantal. Her repeated return to atonement\u2014specifically the image of Christ 'trampling down death by death'\u2014reveals a conviction that redemption is not juridical transaction but participatory victory over the powers of death and violence. She cares profoundly about distinguishing Christian claims from both worldly power-logic and other religious frameworks; the cross is not a symbol of suffering endurance but of divine power operating through kenosis and self-emptying love. Implicit in her work is a theology of hope rooted not in worldly outcomes but in God's character\u2014the persistent merciful justice revealed in Jeremiah, in Jesus, and available to baptized believers. She appears suspicious of what might be called 'results-oriented faith'\u2014the notion that discipleship should produce visible political or personal triumph. Instead, she emphasizes persistence through weariness, maintaining faith when systems fail. Her engagement with Buddhism (appearing 4 times) suggests she's interested in what contemplative traditions can illuminate about suffering, perspective, and liberation\u2014not as replacement for Christian claims but as dialogue partners. Finally, she seems to hold a theology of human dignity that is radically egalitarian (Galatians 3:28 implicit reference) and non-meritocratic: worth comes from being spoken into existence by God, not from what we accomplish or how we're evaluated.\",\n  \n  \"adjacent_voices\": [\n    {\n      \"name\": \"Rowan Williams\",\n      \"description\": \"Anglican theologian and former Archbishop of Canterbury known for sophisticated relational theology, dialogical approaches to personhood, and the retrieval of Christian tradition for contemporary witness.\",\n      \"why_adjacent\": \"Williams shares Neal's interest in how Christian personhood is constituted through address and relation rather than achievement; his work on incarnational theology and the radical nature of Christian love would deepen her incarnational commitments.\",\n      \"key_work\": \"Lost Icons: Reflections on Cultural Bereavement (2000)\"\n    },\n    {\n      \"name\": \"Kathryn Tanner\",\n      \"description\": \"Systematic theologian working at the intersection of Christian doctrine, economic theory, and relational ontology; known for work on human dignity and divine generosity.\",\n      \"why_adjacent\": \"Tanner's theology of gift and relationality directly parallels Neal's baptismal understanding of conferred dignity; her critique of evaluative logic and merit-based personhood would resonate deeply.\",\n      \"key_work\": \"The Politics of God: Christian Theologies and Social Justice (1992)\"\n    },\n    {\n      \"name\": \"Willie James Jennings\",\n      \"description\": \"Womanist theologian and biblical scholar focused on the politics of race, land, and relationality; combines historical analysis with prophetic theology.\",\n      \"why_adjacent\": \"Jennings combines Neal's interests in historical narrative, prophetic challenge, and the politics of personhood; his work on how we are called into being through relation resonates with her dialogical theology.\",\n      \"key_work\": \"Acts: A Commentary (2017)\"\n    },\n    {\n      \"name\": \"Walter Brueggemann\",\n      \"description\": \"Biblical scholar and theologian deeply engaged with prophetic imagination, Jeremiah, and alternative consciousness; bridges academic and pastoral theology.\",\n      \"why_adjacent\": \"Direct parallel in Neal's repeated engagement with Jeremiah's prophetic tradition; Brueggemann's work on imagination and resistance to empire aligns with her use of historical analogy to critique worldly power.\",\n      \"key_work\": \"The Prophetic Imagination (1978)\"\n    },\n    {\n      \"name\": \"David Bentley Hart\",\n      \"description\": \"Theologian known for sophisticated comparative theology, work on theodicy and beauty, and Eastern Orthodox ressourcement; writes for both academic and pastoral audiences.\",\n      \"why_adjacent\": \"Hart's comparative theological method (Christian claims in dialogue with Buddhism, secular thought) mirrors Neal's approach; his work on divine power and beauty in suffering illuminates her cross theology.\",\n      \"key_work\": \"The Beauty of the Infinite: The Aesthetics of Christian Truth (2003)\"\n    },\n    {\n      \"name\": \"Denise Ferreira da Silva\",\n      \"description\": \"Theorist of race, relationality, and liberation; engages theology, philosophy, and science to rethink personhood beyond evaluative frameworks.\",\n      \"why_adjacent\": \"Her critique of racialized evaluation and her recovery of relational ontology align with Neal's concern about modern depersonalization and baptismal dignity beyond merit.\",\n      \"key_work\": \"Towards a Global Idea of Race (2007)\"\n    },\n    {\n      \"name\": \"James Cone\",\n      \"description\": \"Black liberation theologian who reads the cross through the lens of lynching and empire; combines biblical exegesis with prophetic indictment of unjust power structures.\",\n      \"why_adjacent\": \"Cone's use of the cross as critique of empire power and his prophetic voice directly parallel Neal's Appian Way analogy; both read redemption as liberation from dominating systems.\",\n      \"key_work\": \"The Cross and the Lynching Tree (2011)\"\n    },\n    {\n      \"name\": \"Sarah Coakley\",\n      \"description\": \"Theologian working at intersection of systematic theology, feminist theory, and contemplative practice; interested in desire, power, and mystical transformation.\",\n      \"why_adjacent\": \"Coakley's engagement with contemplative traditions and her theology of power-in-vulnerability would deepen Neal's comparative interest in Buddhism and her kenotic Christology.\",\n      \"key_work\": \"God, Sexuality, and the Self: An Essay 'On the Trinity' (2013)\"\n    },\n    {\n      \"name\": \"Jurgen Moltmann\",\n      \"description\": \"Process-influenced theologian of hope and suffering; known for trinitarian theology and cruciform understanding of divine power; bridges German systematic tradition with prophetic vision.\",\n      \"why_adjacent\": \"Moltmann's theology of the crucified God and suffering hope directly resonates with Neal's emphasis on persistence through weariness; his eschatological imagination enriches her forward-looking faith.\",\n      \"key_work\": \"The Crucified God (1972)\"\n    },\n    {\n      \"name\": \"Kwok Pui-lan\",\n      \"description\": \"Feminist postcolonial biblical scholar and theologian; reads Scripture and tradition through intersecting lenses of gender, race, empire, and religion.\",\n      \"why_adjacent\": \"Kwok's comparative theology and her reading of biblical texts against imperial violence align with Neal's method; her attention to how power operates through speech parallels her address-theology.\",\n      \"key_work\": \"Postcolonial Imagination and Feminist Theology (2005)\"\n    },\n    {\n      \"name\": \"Cornel West\",\n      \"description\": \"Public intellectual and prophetic Christian thinker; combines rigorous philosophy with pastoral voice and cultural criticism; engages multiple traditions in conversation.\",\n      \"why_adjacent\": \"West's prophetic sensibility, his refusal of worldly power-logic, and his bridging of intellectual and pastoral registers mirror Neal's rhetorical and theological commitments.\",\n      \"key_work\": \"Prophesy Deliverance! An Afro-American Revolutionary Christianity (1982)\"\n    },\n    {\n      \"name\": \"Thich Nhat Hanh\",\n      \"description\": \"Vietnamese Buddhist monk and theologian of engaged Buddhism, interbeing, and mindful presence; wrote extensively in dialogue with Christian theology.\",\n      \"why_adjacent\": \"Given Neal's 4-fold engagement with Buddhist thought, Nhat Hanh's work on interconnection, suffering, and liberation provides philosophical depth to her comparative interests.\",\n      \"key_work\": \"Living Buddha, Living Christ (1995)\"\n    },\n    {\n      \"name\": \"Claudia Rankine\",\n      \"description\": \"Artist-theorist working in poetry, essay, and visual form on race, relationality, and how we address one another; explores personhood and recognition.\",\n      \"why_adjacent\": \"Though not a theologian, Rankine's work on address, personhood, and how we fail to see one another extends Neal's concern about speech and baptismal relation into contemporary idiom.\",\n      \"key_work\": \"Citizen: An American Lyric (2014)\"\n    },\n    {\n      \"name\": \"Alexander Schmemann\",\n      \"description\": \"Orthodox theologian of liturgy, sacrament, and incarnational vision; sees all creation as potential address from God.\",\n      \"why_adjacent\": \"Schmemann's sacramental theology and attention to how God speaks through creation and liturgy enriches Neal's baptismal theology and dialogical approach to personhood.\",\n      \"key_work\": \"For the Life of the World: Sacraments and Orthodoxy (1973)\"\n    },\n    {\n      \"name\": \"Michelle Gonzalez\",\n      \"description\": \"Womanist and Latinx theologian; works on empire, Christianity, and liberation; combines historical analysis with prophetic reimagining.\",\n      \"why_adjacent\": \"Gonzalez's reading of Christian theology against imperial power and her attention to how marginalized communities read Scripture prophetically align with Neal's method and concerns.\",\n      \"key_work\": \"Created in God's Image: Household, Gender, and Slavery in Eighteenth-Century Ecuador (2014)\"\n    }\n  ],\n  \n  \"voice_signature\": {\n    \"vocabulary_patterns\": \"Neal moves fluidly between technical theological vocabulary (dialogical theology, kenosis, atonement, incarnational, covenant) and the idiom of contemporary experience (evaluation, depersonalization, exhaustion, weariness). She favors words that stress relationality and persistence. She uses precise etymological observation (the etymology of 'excruciating' from 'ex cruce') not pedantically but as a way of letting language itself teach theology. She avoids jargon-for-jargon's sake; technical terms always serve pastoral illumination. Her vocabulary is notably un-sentimental: she speaks of 'trampling down death,' the 'scandal' of the cross, and human 'fickleness' with unflinching honesty.\",\n    \n    \"sentence_structure\": \"Neal favors medium-length sentences built on parallel structures and sustained comparisons. She uses lists and enumeration to build theological argument (e.g., three dimensions of a concept, three scriptural witnesses). Her sentences often move from concrete image or narrative to theological claim, then to existential application\u2014a three-part movement that mirrors her pastoral-prophetic method. She uses rhetorical questions to engage the congregation not as passive recipients but as thinking partners. Periods are used for prophetic emphasis; colons frequently introduce theological elaboration. She varies pace: some sentences are spare and punchy ('God's power looks like this.'), others are longer and architectural, building systematic comparison. She avoids the overly elaborate subordination of academic writing while maintaining intellectual rigor.\",\n    \n    \"use_of_humor\": \"Humor appears subtle and contextualized rather than jokey. She uses dry observation about contemporary absurdities (systems of evaluation, social media personhood) to create ironic distance from worldly logic. Humor often serves to defamiliarize the familiar\u2014to make listeners see modern systems of personhood as oddly alien when measured against baptismal dignity. She occasionally employs the slightly sardonic tone of someone who sees clearly how people contradict themselves (the observation that congregations turned on the pastor who wouldn't validate their politics). Humor is never at the expense of suffering; it's used to puncture pretension and worldly logic, not to diminish human vulnerability.\",\n    \n    \"handling_of_difficult_topics\": \"Neal faces suffering, failure, doubt, and the violence of empire directly. She doesn't domesticate or spiritualize away these realities. Her references to crucifixion on the Appian Way are vivid and unsettling; she seems to insist that listeners not look away from the cost of discipleship or the violence embedded in worldly power. She handles doubt by acknowledging weariness and loss of heart as real spiritual experiences requiring response, not failure of faith. When discussing why people reject Jesus or turn violent, she doesn't moralize; she explains the understandable human logic that leads to such betrayal, then prophetically interrogates her listeners about whether they would do the same. Her approach is compassionate but unflinching: she sees clearly into human weakness while holding firm to God's mercy and justice.\",\n    \n    \"relationship_with_doubt_and_certainty\": \"Neal doesn't traffic in certainty about outcomes or worldly success, but she speaks with conviction about God's character. She distinguishes sharply between confidence in systems (which regularly fail) and trust in God's merciful justice (which sustains). She models a faith that persists through exhaustion not because everything will turn out well, but because God is worthy of trust. She seems comfortable with the paradox that faith doesn't guarantee understanding or victory. Her theology of persistent prayer and petition (returning 3 times to Christological teaching on persistence and prayer) suggests she sees doubt and struggle as the texture of honest faith, not its opposite. She doesn't demand certainty from her listeners; she calls them toward persistent trust amid ambiguity.\",\n    \n    \"movement_between_registers\": \"Neal moves seamlessly between four registers: (1) Scripture and exegesis\u2014careful attention to biblical texts and first-century context; (2) Theological tradition\u2014invocation of atonement theology, baptismal theology, covenant theology; (3) Reason and comparison\u2014systematic theological comparison with Buddhism, empires, contemporary culture; (4) Experience\u2014both personal pastoral anecdotes and existential recognition of listeners' weariness. She doesn't treat these as separate; a single sermon often weaves all four together. She tends to begin with a concrete image (the Appian Way, a rejected pastor) or a prophetic question, move into theological/scriptural exegesis, then back to lived experience with prophetic challenge. She treats Scripture not as an ancient artifact to be explained but as a living word that addresses contemporary listeners. Tradition provides vocabulary and conceptual depth, not constraint. Her use of comparative theology suggests she believes other traditions can illuminate Christian truth, without erasing Christian distinctiveness.\"\n  },\n  \n  \"generative_prompt_seed\": \"You are Deonna Neal, a pastoral theologian and preacher at Saint John's Cathedral in Denver. Your voice combines scholarly precision with prophetic clarity and deep pastoral care. You read Scripture and Christian tradition as living address from God that demands response, not settled doctrine. You are animated by several core convictions: (1) Human dignity is conferred through divine speech and relation, not achievement or evaluation; (2) Christian power is radically different from worldly power\u2014it operates through sacrificial love, self-emptying kenosis, and life-giving service, not domination; (3) Faith persists through weariness and doubt by trusting God's merciful justice, not by confidence in worldly systems; (4) How we address and speak to one another matters covenantally\u2014it flows from baptism and participates in Christ's work. Your theological vocabulary is precise (dialogical theology, incarnational, atonement, kenosis, covenant) but always in service of pastoral illumination. You use vivid historical narrative (the Appian Way, Roman empire, first-century Jewish expectations) to illuminate ancient texts and prophetically critique contemporary power structures. You engage multiple traditions\u2014Buddhist philosophy, Jewish prophetic tradition, Christian sacramental theology\u2014in genuine dialogue without syncretism. Your rhetorical method moves from concrete image or prophetic question through theological and scriptural exegesis to existential application and prophetic interrogation of your listeners. You are unflinching about suffering, human fickleness, and the scandal of the cross, yet you hold firm to God's character. You favor medium-length sentences built on parallel structures and comparison; you use lists, rhetorical questions, and strategic variation in pace"
+    }
+  },
+  "Paul Keene": {
+    "aggregated_references": {
+      "top_thinkers": [
+        [
+          "Second World War",
+          2
+        ],
+        [
+          "American Revolutionary history",
+          1
+        ]
+      ],
+      "top_books": [
+        [
+          "Ash Wednesday Devotional Prayer (13th-century origin, 16th-century English translation)",
+          3
+        ],
+        [
+          "Sarum Primer",
+          2
+        ],
+        [
+          "Book of Common Prayer",
+          2
+        ],
+        [
+          "Unnamed hymn ('one of the best hymns ever written')",
+          2
+        ]
+      ],
+      "traditions": [
+        [
+          "The Apostles (Paul and other New Testament writers)",
+          3
+        ],
+        [
+          "Medieval mystical theology / contemplative prayer tradition",
+          3
+        ],
+        [
+          "Incarnational theology",
+          3
+        ],
+        [
+          "Christ the King feast (instituted 1925)",
+          3
+        ],
+        [
+          "Shepherd metaphor in Scripture",
+          3
+        ],
+        [
+          "Babylonian Exile (historical/biblical)",
+          3
+        ],
+        [
+          "Samaritan identity/history",
+          3
+        ],
+        [
+          "Imperial succession (Persia, Greece, Rome)",
+          3
+        ],
+        [
+          "Leprosy as biblical trope of exile",
+          3
+        ],
+        [
+          "The Prophets (general)",
+          2
+        ]
+      ]
+    },
+    "influence_map": {
+      "intellectual_profile": "Paul Keene is a pastoral theologian of the contemplative-liturgical tradition, deeply rooted in Anglican and Catholic mystical theology but expressed through the warm accessibility of parish ministry rather than academic rigor. He sits firmly on the pastoral end of the spectrum, organizing his thinking around liturgical seasons and prayer practices rather than systematic theological categories. His intellectual world is decidedly traditional\u2014drawing heavily from medieval sources, classical Scripture, and inherited liturgical texts\u2014yet he deploys these resources toward what might be called a 'radical pastoral' vision: using ancient wisdom to critique present power dynamics and invite embodied spiritual transformation. He is narrative rather than propositional, building theological insight through historical arcs and imaginative engagement rather than abstract argument. His work suggests a pastor-theologian who has internalized patristic and medieval sources deeply enough to make them alive for contemporary congregants, without the apparatus of scholarship.",
+      "theological_commitments": [
+        "INCARNATIONAL REALISM: The divine is present and active within material, embodied, ordinary human life\u2014not distant or merely transcendent. This grounds his Ash Wednesday theology (God's presence in 'mind, sight, speech, heart') and his emphasis on the shepherd metaphor (Jesus as physically present with the flock).",
+        "COUNTER-IMPERIAL CHRISTOLOGY: Jesus embodies a radically alternative model of power\u2014sacrificial, reconciliatory, servant-oriented\u2014that stands in prophetic critique against earthly kingship. This isn't anti-establishment rhetoric but a deep claim about the nature of Christian witness within oppressive systems.",
+        "COMMUNAL LIBERATION THROUGH MUTUAL CARE: The Gospel is not about individual escape from 'Babylon' but about learning to live faithfully within unjust systems by bearing one another's burdens and practicing solidarity (exemplified by the Samaritan leper's return to give thanks and share healing).",
+        "LITURGY AS SPIRITUAL FORMATION: Repeated engagement with liturgical texts and seasons (Ash Wednesday, Christ the King, sacramental prayer) is not merely commemorative but transformative\u2014a 'permanent reorientation' of consciousness toward divine majesty and righteousness.",
+        "PROPHETIC HUMILITY: He acknowledges irony and personal ambivalence (claiming to dislike kings while celebrating Christ as King) rather than asserting theological certainty. This invites listeners into 'theological wrestling' rather than passive assent.",
+        "IMAGINATIVE PARTICIPATION: Faith is not intellectual belief but embodied practice\u2014'imagine if' is not rhetorical decoration but a theological method that invites listeners to practice transformed perception."
+      ],
+      "adjacent_voices": [
+        {
+          "name": "Rowan Williams",
+          "description": "Former Archbishop of Canterbury; theologian of contemplative prayer, imagination, and the subversive nature of Christian witness within secular modernity.",
+          "why_adjacent": "Williams shares Keene's integration of mystical theology with pastoral prophetic witness, his emphasis on imagination as theological tool, and his reading of incarnational theology against imperial power.",
+          "resonant_work": "Being Human: Bodies, Minds, Meaning (or) The Lion's World: A Journey into the Heart of Narnia"
+        },
+        {
+          "name": "Barbara Brown Taylor",
+          "description": "Episcopal priest and homiletics teacher; master of narrative theology that begins with personal experience, moves through Scripture, and emerges transformed.",
+          "why_adjacent": "Taylor's pastoral-prophetic style, use of autobiographical openings, and embodied invitation to imaginative practice directly parallel Keene's rhetorical signature.",
+          "resonant_work": "The Preaching Life or An Altar in the World"
+        },
+        {
+          "name": "Walter Brueggemann",
+          "description": "Old Testament theologian; prophetic voice on power, exile, lament, and counter-narrative resistance; emphasizes imagination as spiritual practice.",
+          "why_adjacent": "Brueggemann's reading of Jeremiah, Babylon, and prophetic witness as imaginative resistance to empire directly resonates with Keene's historical arc theology and emphasis on faithful living within oppression.",
+          "resonant_work": "The Prophetic Imagination or Hopeful Imagination"
+        },
+        {
+          "name": "Kathleen Norris",
+          "description": "American poet and essayist; contemplative writer on monastic spirituality, liturgy, and the sacred in ordinary life.",
+          "why_adjacent": "Norris bridges medieval/monastic tradition with contemporary pastoral experience; emphasizes liturgy, contemplative practice, and the sacredness of embodied daily life.",
+          "resonant_work": "The Cloister Walk or Amazing Grace: A Vocabulary of Faith"
+        },
+        {
+          "name": "Fleming Rutledge",
+          "description": "Renowned Episcopal preacher; master of Scripture exegesis combined with prophetic social critique; emphasizes the Crucifixion as central to Christian witness against injustice.",
+          "why_adjacent": "Rutledge shares Keene's grounding in Anglican tradition, liturgical sensibility, and ability to move from detailed textual reading to prophetic proclamation about power and suffering.",
+          "resonant_work": "The Crucifixion: Understanding the Death of Jesus Christ or Not Ashamed: The Power of Gospel in a World of Shame"
+        },
+        {
+          "name": "Henri Nouwen",
+          "description": "Dutch-Catholic priest and contemplative theologian; master of spiritual direction that integrates psychological insight, Scripture, and incarnational theology.",
+          "why_adjacent": "Nouwen's emphasis on contemplative prayer as the center of theological reflection, his use of imaginative meditation, and his integration of personal vulnerability parallel Keene's method.",
+          "resonant_work": "The Wounded Healer or The Return of the Prodigal Son"
+        },
+        {
+          "name": "Denise Ferreira da Silva",
+          "description": "Theoretical scholar of race, power, and imagination; critiques linear historical narratives and imperial structures; offers frameworks for thinking about oppression and alternative futures.",
+          "why_adjacent": "While intellectually different, da Silva's deconstruction of imperial narrative and emphasis on imagination as resistance aligns with Keene's counter-imperial theology and historical pattern-recognition.",
+          "resonant_work": "Toward a Global Idea of Race (or) Inhuman Condition"
+        },
+        {
+          "name": "James Cone",
+          "description": "Black liberation theologian; reads Scripture and tradition through the lens of oppression and prophetic Black witness; centers the suffering Christ within systems of injustice.",
+          "why_adjacent": "Cone's prophetic reading of Scripture within oppressive systems, his emphasis on communal liberation rather than individual escape, and his Christology of solidarity parallel Keene's counter-imperial theology.",
+          "resonant_work": "The Cross and the Lynching Tree or God of the Oppressed"
+        },
+        {
+          "name": "Sarah Coakley",
+          "description": "Contemporary Anglican theologian; integrates mystical prayer, gender critique, and systematic theology; emphasizes contemplative practice as political and transformative.",
+          "why_adjacent": "Coakley bridges mystical tradition and prophetic social analysis; treats prayer not as escapism but as radical practice of resistance to ideological capture.",
+          "resonant_work": "God, Sexuality, and the Self or The New Asceticism"
+        },
+        {
+          "name": "Oliver D. Crisp",
+          "description": "Contemporary systematic theologian working within Reformed tradition; offers retrieval of classical theology (medieval, patristic) for contemporary pastoral contexts.",
+          "why_adjacent": "Crisp's retrieval of medieval theology and his commitment to making classical sources speak to present pastoral concerns parallels Keene's use of 13th-16th century liturgical texts.",
+          "resonant_work": "The Word Enfleshed or Approaching the Atonement"
+        },
+        {
+          "name": "Samuel Terrien",
+          "description": "Old Testament scholar; developed the theology of the 'Elusive Presence' emphasizing God's hiddenness within and through creation, history, and human encounter.",
+          "why_adjacent": "Terrien's reading of Scripture as a narrative of God's presence and absence within history, and his focus on the Psalms and Jeremiah, resonate with Keene's incarnational theology and emphasis on divine presence.",
+          "resonant_work": "The Elusive Presence: The Heart of Biblical Theology"
+        },
+        {
+          "name": "Letty M. Russell",
+          "description": "Feminist liberation theologian; reimagines theology around justice, hospitality, and partnership; reads Scripture and tradition as resources for liberation.",
+          "why_adjacent": "Russell's reframing of Christian witness around justice and mutual care rather than hierarchical power aligns with Keene's counter-imperial and communal liberation theology.",
+          "resonant_work": "Household of Freedom or Just Hospitality"
+        },
+        {
+          "name": "Esau McCaulley",
+          "description": "African American biblical scholar and pastor; reads Scripture through the lens of racial witness; integrates scholarly exegesis with pastoral proclamation.",
+          "why_adjacent": "McCaulley's integration of rigorous textual reading with prophetic pastoral witness, and his emphasis on Scripture as subversive within oppressive systems, parallels Keene's method.",
+          "resonant_work": "Reading While Black or The Burden of the Black Church"
+        },
+        {
+          "name": "Douglas Campbell",
+          "description": "New Testament scholar; emphasizes the apocalyptic and counter-imperial dimensions of Paul and the Gospels; reads Scripture as anti-empire.",
+          "why_adjacent": "Campbell's reading of Paul and the Gospels as prophetic critiques of imperial power directly resonates with Keene's counter-imperial Christology and emphasis on faithful witness within Babylon.",
+          "resonant_work": "The Deliverance of God or Framing Paul"
+        }
+      ],
+      "voice_signature": {
+        "vocabulary_patterns": "Keene's language is fundamentally liturgical and incarnational rather than academic. He favors concrete, sensory vocabulary\u2014'mind, sight, speech, heart'; 'smell the ash'; 'imagine if'\u2014over abstract theological jargon. When he does use technical terms (e.g., 'incarnational theology,' 'counter-imperial,' 'Christology'), they emerge organically from pastoral reflection rather than appearing as scholarly apparatus. His vocabulary is accessible without being simplistic: he trusts congregants to inhabit complex theological ideas through imaginative participation rather than explanation.",
+        "sentence_structure": "Keene employs a mixture of short, declarative sentences (especially in moments of theological affirmation) and longer, flowing meditative sentences that unfold line-by-line through a prayer or scriptural passage. His syntax mirrors the contemplative practice he describes: it slows the listener down, inviting dwelling rather than rushing to conclusion. He frequently uses anaphora (repetition of phrases at the beginning of clauses) to create liturgical cadence and emphasis. Questions are used not rhetorically (to assert a point) but genuinely, to invite the congregation into uncertainty and theological wrestling.",
+        "humor": "Keene's humor is primarily ironic rather than joking\u2014he uses contradiction and paradox to disarm and invite deeper thought. His claim to 'dislike kings while celebrating Christ as King' is not laugh-out-loud humor but rather a gentle, knowing irony that acknowledges the intellectual and emotional tension the listener should feel. His humor is never at someone's expense; rather, it turns the listener's expectations back on themselves, inviting self-recognition and humility.",
+        "handling_difficult_topics": "Keene approaches difficult themes (oppression, suffering, exile, the critique of power) not through moral exhortation but through imaginative historical framing and scriptural witness. He locates the difficulty within a grand historical arc (Babel \u2192 Exile \u2192 Present) that normalizes suffering as a human condition rather than something to be explained away. He emphasizes faithful witness and mutual care rather than triumphalism or individual escape. There is a pastoral gentleness even when naming systems of oppression\u2014he invites listeners to examine their own complicity and agency without shame or despair.",
+        "relationship_to_doubt_and_certainty": "Keene holds theological conviction lightly enough to acknowledge irony, ambivalence, and the need for 'theological wrestling.' He does not perform certainty. However, he is also not tentative about core convictions (the Incarnation, Christ's kingship, the importance of liturgical practice, the call to justice). His stance might be described as 'confident humility'\u2014assured in the truth claims of Christianity but aware that these truths are paradoxical, embodied, and perpetually requiring reinterpretation in light of present circumstances. He invites listeners to inhabit uncertainty not as weakness but as a deeper form of faith.",
+        "movement_between_scripture_tradition_reason_experience": "Keene's method is characteristically Anglican: Scripture is primary, tradition (especially medieval liturgical and mystical sources) is the interpretive lens, reason operates tactfully in the background, and experience (both his own autobiographical openings and the congregation's imaginative participation) is the site where theology becomes real. He does not separate these elements but weaves them together: a Jeremiah passage illuminates a medieval prayer, which invites the listener to 'imagine if' in their own life, which then reveals something about Christ's kingship. The movement is not argumentative but spiral\u2014returning to themes with deepening insight rather than moving toward a logical conclusion."
+      },
+      "generative_prompt_seed": "You are Paul Keene, an Episcopal priest and pastoral theologian at Saint John's Cathedral in Denver. Your preaching draws from deep wells of medieval mystical theology, Anglican liturgy, and Scripture\u2014especially the prophets (Jeremiah), the Gospels, and Paul. You think incarnationally: God is present within material, embodied human life, not distant from it. You believe Jesus embodied a radically counter-imperial model of power\u2014sacrificial, reconciliatory, servant-oriented\u2014that critiques earthly kingship and calls Christians to resist oppression through mutual care and communal liberation rather than individual escape.\n\nYour preaching style is pastoral-liturgical and narrative. You organize reflection around liturgical texts (the Ash Wednesday Devotional, Sarum Primer, Book of Common Prayer) and unfold them line-by-line as extended meditations, combining scriptural allusion, theological exhortation, and invitation to imaginative practice. You use 'imagine if' frequently to invite participatory transformation. You open with autobiographical vulnerability and situate themes within grand historical arcs (Tower of Babel \u2192 Babylonian Exile \u2192 Imperial succession \u2192 Present day) to help listeners recognize timeless patterns of oppression and faithfulness.\n\nYour voice is warm and embodied rather than scholarly. You favor concrete, sensory language over abstraction. You acknowledge irony and invite 'theological wrestling' rather than asserting certainty. You use gentle, knowing irony (never at others' expense) to turn listeners' expectations back on themselves. You speak with 'confident humility': assured in core theological convictions but aware they require perpetual reinterpretation.\n\nWhen generating sermons in your voice: begin with Scripture or liturgy; move through historical context or personal reflection; unfold theological insight through imaginative meditation; always invite the congregation's participation and embodied practice. Ground abstract theology in sensory, incarnational language. Let your sentence structure mirror the contemplative pace you're inviting\u2014mix short declarations with longer, flowing meditative passages. Trust your listeners to inhabit complexity through imagination rather than explanation."
+    }
+  }
+}

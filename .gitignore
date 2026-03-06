@@ -6,8 +6,7 @@ sermon_bot/data/context/
 sermon_bot/data/references/
 sermon_bot/data/generated_sermons/
 
-# Web app data (synced from pipeline)
-sjc-sermon-bot/data/
+# Web app build artifacts
 sjc-sermon-bot/.next/
 sjc-sermon-bot/node_modules/
 

@@ -1,0 +1,752 @@
+[
+  {
+    "references": [
+      {
+        "name": "Saul/Paul conversion narrative",
+        "type": "scripture",
+        "context": "\"the voice of the Lord working in us and through us might appear in a flash of blinding light and say, Saul, Saul, why do you persecute me?\"",
+        "significance": "central"
+      },
+      {
+        "name": "Acts 9:1-19 (Saul's conversion)",
+        "type": "scripture",
+        "context": "Referenced through the conversion moment where Saul asks \"who are you, Lord?\" and hears \"I am Jesus, whom you are persecuting.\"",
+        "significance": "central"
+      },
+      {
+        "name": "Hebrews 13:2",
+        "type": "scripture",
+        "context": "\"Do not neglect to show hospitality to strangers, our epistle reads, for by doing that some have entertained angels without knowing it.\"",
+        "significance": "supporting"
+      },
+      {
+        "name": "Hebrews 13:8",
+        "type": "scripture",
+        "context": "\"The Gospel, the good news of Jesus Christ of Nazareth, who is the same yesterday and today and forever\"",
+        "significance": "supporting"
+      },
+      {
+        "name": "Jesus' table teachings (Luke 14:7-14 allusion)",
+        "type": "scripture",
+        "context": "Sermon's foundational text about humility at table, places of honor, and who should be invited.",
+        "significance": "central"
+      },
+      {
+        "name": "Romans 12:15 or 1 Peter 1:22 (mutual love emphasis)",
+        "type": "scripture",
+        "context": "\"A lesson for all: let mutual love continue.\"",
+        "significance": "central"
+      },
+      {
+        "name": "Eucharist/Communion",
+        "type": "tradition",
+        "context": "\"Our Eucharistic feast, which we hold as sacred and central to our faith... This table, the Lord's table, is for all of us.\"",
+        "significance": "central"
+      },
+      {
+        "name": "Christian hospitality tradition",
+        "type": "tradition",
+        "context": "Foundational to interpreting Jesus' teaching on table inclusion and the church's ministry to expand welcome.",
+        "significance": "central"
+      },
+      {
+        "name": "Incarnational theology (implied)",
+        "type": "implicit",
+        "context": "\"I am the immigrant, the worker, the minority whom you are persecuting... I am your neighbor, your family member, colleague, and community member.\"",
+        "significance": "central"
+      },
+      {
+        "name": "Social justice theology (implied)",
+        "type": "tradition",
+        "context": "Sermon emphasizes expanding tables to reach the marginalized: poor, people of color, LGBTQIA+, and those of different political views and faiths.",
+        "significance": "central"
+      },
+      {
+        "name": "Liberation theology (implied)",
+        "type": "implicit",
+        "context": "Focus on justice, the oppressed, and God's bias toward the marginalized: \"God will bring justice to all of the injustice that we are suffering.\"",
+        "significance": "central"
+      },
+      {
+        "name": "Kilmar Albrego Garcia",
+        "type": "thinker",
+        "context": "Mentioned by name in relation to justice and injustice themes, though context is fragmentary in transcript.",
+        "significance": "passing"
+      },
+      {
+        "name": "\"The increase of true religion, as our colleague puts it\"",
+        "type": "implicit",
+        "context": "Quoted formula describing the church's work as \"nourishment of all goodness and the fruit of good works.\"",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christological sacrifice theology",
+        "type": "tradition",
+        "context": "\"The call of Christ, who lived and died and gave himself for us in offering and sacrifice to God.\"",
+        "significance": "supporting"
+      },
+      {
+        "name": "Pentecost (liturgical reference in title)",
+        "type": "scripture",
+        "context": "Sermon is placed within liturgical calendar as \"The Twelfth Sunday after Pentecost,\" connecting to Acts 2 and themes of Spirit-empowered ministry.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "The church is called to expand the Lord's table through inclusive hospitality and mutual love across all boundaries of class, race, gender, politics, and faith, reflecting Christ's radical inclusion and justice-oriented vision.",
+    "rhetorical_style": "Prophetic pastoral reflection combining scriptural narrative (Saul's conversion), concrete social analysis (tables of exclusion, inequality, unchecked power), extended metaphor (the table as symbol for all human institutions), and pastoral exhortation (direct imperatives: 'be humble,' 'be inclusive,' 'be one at the Lord's table')."
+  },
+  {
+    "references": [
+      {
+        "name": "Philippians 3:10-14",
+        "type": "scripture",
+        "context": "Paul's letter quoted: 'I want to know Christ and the power of his resurrection and the sharing of his sufferings by becoming like him in his death' and 'Not that I have already obtained this or have already reached the goal, but I press on to make it my own because Christ Jesus has made me his own.'",
+        "significance": "central"
+      },
+      {
+        "name": "Psalm 126:1-2",
+        "type": "scripture",
+        "context": "'When the Lord restored the fortunes of Zion, then were we like those who dream. Then was our mouth filled with laughter, and our tongue with shouts of joy' \u2014 used to frame the resident's experience of pride and restoration.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Colossians 3:1-2",
+        "type": "scripture",
+        "context": "Implicit reference to 'heavenly things, unseen things, things that are above' when preacher says we are 'called to focus on heavenly things, unseen things, things that are above.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Narrative of Jesus's Passion",
+        "type": "scripture",
+        "context": "Reference to Palm Sunday and Jesus entering Jerusalem 'for the last time, be put on trial, betrayed, and brutally executed on a cross' \u2014 framing the liturgical season of Lent.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christian theology of divine presence in weakness",
+        "type": "tradition",
+        "context": "'When I feel like I am at my weakest, God is there. When I feel like I am at my lowest, God is there. Loving us unconditionally, loving us always.' \u2014 reflects Orthodox and Protestant understandings of God's grace in human weakness.",
+        "significance": "central"
+      },
+      {
+        "name": "Liberation theology / dignity of the marginalized",
+        "type": "tradition",
+        "context": "The entire sermon emphasizes lifting up 'the voices of the disadvantaged in our midst and honor their dignity' through the 'Heard to be Seen, Seen to be Heard' art project with formerly unhoused residents.",
+        "significance": "central"
+      },
+      {
+        "name": "Art as spiritual and healing practice",
+        "type": "tradition",
+        "context": "The sermon uses the collaborative art project as an example of 'a profound experience of healing, hope, and community, where true joys are to be found, where Jesus is to be found.'",
+        "significance": "central"
+      }
+    ],
+    "primary_theme": "In times of worldly anxiety and despair, Christians are called to seek heavenly joy through Christ by recognizing God's presence in human suffering, community, and creative acts of dignity that lift up the marginalized.",
+    "rhetorical_style": "Pastoral narrative testimony combined with liturgical reflection and prophetic challenge; the preacher uses personal anecdote (his wife's art project) as primary evidence for theological claims about resurrection, dignity, and community rather than scholarly argumentation."
+  },
+  {
+    "references": [
+      {
+        "name": "The Golden Rule / Matthew 7:12",
+        "type": "scripture",
+        "context": "Jesus's teaching to 'do to others as you would have them do to you' is presented as the central ethical demand, especially regarding enemies.",
+        "significance": "central"
+      },
+      {
+        "name": "Luke 6:27-36 (Love your enemies passage)",
+        "type": "scripture",
+        "context": "Series of commands: 'Do good to your haters. Bless your cursors. Pray for your abusers. Offer the other cheek. Don't hold back your shirt. Give to beggars.'",
+        "significance": "central"
+      },
+      {
+        "name": "Matthew 5:39 (Turn the other cheek)",
+        "type": "scripture",
+        "context": "Referenced in the command 'Offer the other cheek' as part of the non-retaliation ethic.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christ's crucifixion and resurrection",
+        "type": "scripture",
+        "context": "Jesus 'died an awful death on a cross by those we would consider enemies' and 'returned resurrected so that we might live beyond our human nature and violence.'",
+        "significance": "central"
+      },
+      {
+        "name": "Richard (morning speaker reference)",
+        "type": "thinker",
+        "context": "Preacher references 'as Richard mentioned this morning' regarding reunion with Christ as foundational to loving God, neighbor, and self.",
+        "significance": "supporting"
+      },
+      {
+        "name": "The Gospel / Gospel message",
+        "type": "tradition",
+        "context": "Invoked as contrasting with 'the ways of the world' regarding revenge, resentment, economic justice, and betrayal.",
+        "significance": "central"
+      },
+      {
+        "name": "Christian ethics of forgiveness and charity",
+        "type": "tradition",
+        "context": "Preacher emphasizes 'forgiveness and charity, non-judgment and kindness, goodness and mercy' as responses to contemporary crises.",
+        "significance": "central"
+      },
+      {
+        "name": "Prophetic tradition (Christian)",
+        "type": "tradition",
+        "context": "Preacher concludes 'It is time to be prophetic. It is time to be a Christian,' invoking the prophetic call to speak against evil and injustice.",
+        "significance": "central"
+      },
+      {
+        "name": "Liberation through Christ",
+        "type": "implicit",
+        "context": "The phrase 'God in Christ liberates us from our sin and wickedness' reflects liberation theology's emphasis on liberation and transformation.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Human nature and transcendence",
+        "type": "implicit",
+        "context": "Call to 'live beyond our human nature and beyond our violence' and 'into a love beyond our wildest imaginations' suggests theological anthropology and mystical transformation.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "Jesus's command to love enemies, do good to all without exception, and live beyond violence and retaliation is countercultural and demands concrete loving action in community and the world.",
+    "rhetorical_style": "Pastoral narrative reflection combined with prophetic challenge; uses personal testimony (struggles with bullies, abusive relationships, divorced parents) to establish credibility, then moves to communal examples of faithful living, and concludes with a prophetic call to action. The opening rhetorical questions ('Do what? Love? Who?') establish the difficulty of the teaching before building toward affirmation."
+  },
+  {
+    "references": [
+      {
+        "name": "Leonel Mitchell",
+        "type": "thinker",
+        "context": "Author of 'Praying Shapes Believing,' cited for his explanation of the theological meaning of liturgical dismissal and the connection between worship and Christian living.",
+        "significance": "central"
+      },
+      {
+        "name": "Praying Shapes Believing",
+        "type": "book",
+        "context": "Mitchell's work quoted to establish that dismissal (Missa in Latin) connects the gathered church's Eucharistic worship to being sent out as the body of Christ in the world.",
+        "significance": "central"
+      },
+      {
+        "name": "Book of Common Prayer",
+        "type": "book",
+        "context": "The liturgical text from which the preacher draws a closing prayer for social justice and the breaking down of barriers that divide human hearts.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Gospel of Mark 7:31-37 (or parallels)",
+        "type": "scripture",
+        "context": "The healing of the deaf man with a speech impediment, where Jesus says 'Ephatha' (be opened), used as the gospel lesson for the day and applied metaphorically to openness in faith and community.",
+        "significance": "central"
+      },
+      {
+        "name": "James (epistle)",
+        "type": "scripture",
+        "context": "Referenced in the morning's epistle reading regarding distinctions drawn between rich and poor, challenging Christian witness.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Gospel of Mark 7:25-30 (or Matthew 15:21-28)",
+        "type": "scripture",
+        "context": "The account of the Syrophoenician woman (Gentile woman of Syrophoenician descent) begging Jesus to heal her sick daughter, illustrating challenges to boundaries of who is considered neighbor.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Parable of the Good Samaritan (implied)",
+        "type": "scripture",
+        "context": "The preacher invokes the theological question 'Who is my neighbor?' central to understanding Christian responsibility across identity boundaries.",
+        "significance": "central"
+      },
+      {
+        "name": "Baptismal and Eucharistic theology",
+        "type": "tradition",
+        "context": "The dismissal is described as a call to 'live the baptismal and Eucharistic life in the world,' grounding the sermon in sacramental and liturgical theology.",
+        "significance": "central"
+      },
+      {
+        "name": "Incarnational theology / Christological presence",
+        "type": "implicit",
+        "context": "The phrase 'welcoming Christ in our midst, especially where we might least expect it, in the poor' reflects the Christian tradition of seeing Christ present in the marginalized and suffering.",
+        "significance": "central"
+      },
+      {
+        "name": "Liberation theology (implicit)",
+        "type": "implicit",
+        "context": "The sermon's emphasis on serving the unhoused, mentally ill, and poor as a direct expression of Christian faith reflects themes central to liberation theology.",
+        "significance": "central"
+      },
+      {
+        "name": "Liturgy and ethics connection",
+        "type": "tradition",
+        "context": "The sermon's central claim that 'dismissal asserts the relationship between liturgy and Christian living' draws from the tradition of liturgical theology.",
+        "significance": "central"
+      }
+    ],
+    "primary_theme": "Christian discipleship requires openness to encounter Christ in the poor and marginalized, and the church's liturgical worship must translate directly into missional living and justice in the world.",
+    "rhetorical_style": "Narrative storytelling interwoven with liturgical-theological reflection; the preacher uses a concrete pastoral encounter (Tracy) as a lens through which to examine scripture and liturgical theory, building toward a prophetic challenge about Christian responsibility across social boundaries."
+  },
+  {
+    "references": [
+      {
+        "name": "Michelangelo",
+        "type": "thinker",
+        "context": "Italian Renaissance artist quoted as saying 'To touch is to give life,' and praised as 'the divine one' renowned for sculptures, poetry, paintings, and architecture.",
+        "significance": "central"
+      },
+      {
+        "name": "The Creation of Adam",
+        "type": "book",
+        "context": "Michelangelo's painting on the Sistine Chapel ceiling depicting God and Adam with nearly touching fingers; used as visual anchor for the sermon's central metaphor of touch as life-giving.",
+        "significance": "central"
+      },
+      {
+        "name": "Sistine Chapel",
+        "type": "book",
+        "context": "Located in Vatican City, Rome; contains Michelangelo's four-year ceiling project including The Creation of Adam.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Psalm 30:2-3",
+        "type": "scripture",
+        "context": "'Oh Lord my God, I cried out to you, and you restored me to health. You brought me up, oh Lord, from the dead. You restored my life as I was going down to the grave.'",
+        "significance": "central"
+      },
+      {
+        "name": "Gospel of Mark 5:21-43 (The Healing of Jairus's Daughter and the Woman with the Hemorrhage)",
+        "type": "scripture",
+        "context": "Two healing stories referenced: Jairus pleading for Jesus to lay hands on his dying daughter, and the woman who touches Jesus's clothes to be healed of 12 years of hemorrhages.",
+        "significance": "central"
+      },
+      {
+        "name": "Wisdom of Solomon 2:23",
+        "type": "scripture",
+        "context": "'For righteousness is immortal. God created us for incorruption and made us in the image of his own eternity.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Holy Communion/Eucharist",
+        "type": "tradition",
+        "context": "Described as a sacramental celebration involving touch\u2014holding vessels, sharing bread and cup, offering blessing of peace\u2014as a miraculous moment of healing and connection with God.",
+        "significance": "central"
+      },
+      {
+        "name": "Christian liturgical tradition",
+        "type": "tradition",
+        "context": "Referenced through the preacher's weekly liturgical duties, sacramental practices, and apostolic ministry of laying on of hands.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Liberation/Incarnational theology (implicit)",
+        "type": "implicit",
+        "context": "The emphasis on Jesus showing up 'in the midst of human suffering' and the call to 'show up, to love and serve, to be present with Christ...especially at the margins, with the tired, hungry, the poor, sick, and disenfranchised.'",
+        "significance": "central"
+      },
+      {
+        "name": "Resurrection theology (implicit)",
+        "type": "implicit",
+        "context": "Touch is understood as 'a form of prayer, of faith, hope, renewal, and resurrection,' with healing presented as resurrection motif throughout.",
+        "significance": "central"
+      },
+      {
+        "name": "Imago Dei theology",
+        "type": "tradition",
+        "context": "Referenced in the quote 'made us in the image of his own eternity,' foundational to understanding humans as participants in Christ's healing work.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "Touch\u2014both physical and spiritual\u2014is the fundamental means by which God gives life, heals human suffering, and calls believers to participate in Christ's redemptive work, especially among the marginalized.",
+    "rhetorical_style": "Pastoral reflection combining visual/artistic contemplation (Michelangelo), liturgical witness (Holy Communion experience), scriptural narrative (Gospel healing stories), and personal ministerial anecdotes (work with unhoused people), building toward prophetic exhortation to embody healing presence in the world."
+  },
+  {
+    "references": [
+      {
+        "name": "St. Anselm",
+        "type": "thinker",
+        "context": "The preacher cites Anselm's concept of 'faith-seeking understanding' as the framework for approaching unfamiliar religious traditions with curiosity and wonder.",
+        "significance": "central"
+      },
+      {
+        "name": "Battle of Culloden",
+        "type": "implicit",
+        "context": "Referenced as the historical defeat of Scottish forces that led to cultural suppression through the 1746 Act of Proscription.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Act of Proscription (1746)",
+        "type": "book",
+        "context": "Cited as the law passed by the Duke of Chamberlain forbidding Scottish clans from wearing tartan, playing bagpipes, and expressing their culture.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Reverend Dr. Peter Marshall",
+        "type": "thinker",
+        "context": "A Scottish-American Presbyterian priest credited with delivering the sermon 'Kirk and O' the Tartan' in the early part of World War II, establishing the modern tradition.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Psalm 23 (The Good Shepherd)",
+        "type": "scripture",
+        "context": "Alluded to in the phrase 'hear the voice of the Good Shepherd and follow where he leads,' establishing Christian pastoral imagery.",
+        "significance": "supporting"
+      },
+      {
+        "name": "1 John 3:18",
+        "type": "scripture",
+        "context": "Implicitly referenced through the phrase 'a love not just in word and speech, but also in truth and action,' echoing the epistle's call to love in deed.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Easter theology",
+        "type": "tradition",
+        "context": "The preacher frames the Kirkin' O' the Tartan as an 'Easter place' and invokes Easter as a triumph of life over death and the resurrection message.",
+        "significance": "central"
+      },
+      {
+        "name": "New Jerusalem",
+        "type": "scripture",
+        "context": "Referenced at the sermon's close as a blessing to share with others, alluding to Revelation 21 and eschatological hope.",
+        "significance": "supporting"
+      },
+      {
+        "name": "The Episcopal Church founding",
+        "type": "implicit",
+        "context": "The preacher situates the Episcopal Church's founding alongside American independence, linking Anglican revolutionary identity to Scottish ecclesiastical support.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Cultural resilience theology",
+        "type": "tradition",
+        "context": "The implicit theological framework that sees the preservation of Scottish identity under oppression as an expression of faith and God's protection of His beloved children.",
+        "significance": "central"
+      }
+    ],
+    "primary_theme": "The Kirkin' O' the Tartan is a celebration of how faith, cultural identity, and community resilience intertwine, particularly in how Scottish-Americans maintained their heritage despite oppression and now bless their traditions within the Christian church.",
+    "rhetorical_style": "Pastoral reflection combined with historical narrative, moving from personal discovery (the preacher's own encounter with the tradition) through historical context (17th-century Scottish persecution) to theological interpretation (faith-seeking understanding, Easter theology), ultimately building toward communal invitation and blessing."
+  },
+  {
+    "references": [
+      {
+        "name": "Archbishop Desmond Tutu",
+        "type": "thinker",
+        "context": "Tutu is cited in a multi-day conversation with the Dalai Lama on joy, explaining 'We are meant to live in joy' and that acceptance of reality is the only place where change can begin.",
+        "significance": "central"
+      },
+      {
+        "name": "The Dalai Lama",
+        "type": "thinker",
+        "context": "Referenced as dialogue partner with Archbishop Tutu in a multi-day conversation on the topic of joy.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Matthew 13:31-32 (The Parable of the Mustard Seed)",
+        "type": "scripture",
+        "context": "Thanksgiving 'begins as a tiny little mustard seed sown in the heart' that grows into a 'mighty wellspring of faith.'",
+        "significance": "central"
+      },
+      {
+        "name": "Eucharistic Prayer / Great Thanksgiving",
+        "type": "tradition",
+        "context": "The sermon references the liturgical Great Thanksgiving prayer structure and its opening proclamation: 'It is right and a good and joyful thing, always and everywhere to give thanks to you, Father Almighty, creator of heaven and earth.'",
+        "significance": "central"
+      },
+      {
+        "name": "Psalm 121:1-2",
+        "type": "scripture",
+        "context": "Quoted: 'From where is my help to come? My help comes from the Lord, the maker of heaven and earth.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Deuteronomy 8:11-14 (allusion)",
+        "type": "scripture",
+        "context": "The warning 'Take care that you do not forget the Lord your God' during abundance echoes the biblical admonition about forgetting God amid plenty.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Psalm 65:5 (allusion)",
+        "type": "scripture",
+        "context": "The phrase 'Awesome things will you show us in your righteousness, O God of our salvation' appears to reference or closely parallel Psalm 65.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christ / Christian theology of grace",
+        "type": "tradition",
+        "context": "The sermon emphasizes that the invitation to thanksgiving is 'through Christ and his surpassing grace' and calls believers to 'serve Christ in the light and dark places of our world.'",
+        "significance": "central"
+      },
+      {
+        "name": "Stewardship theology",
+        "type": "tradition",
+        "context": "Invoked in the call to be 'good stewards of our fragile earth and take only what you need,' reflecting Christian environmental and resource stewardship doctrine.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Liberation/justice theology (implicit)",
+        "type": "implicit",
+        "context": "The sermon's concern with 'dehumanization, terrorism, and war' and focus on caring for the homeless and marginalized ('people transitioning out of homelessness') reflects liberation theology's emphasis on justice for the oppressed.",
+        "significance": "central"
+      }
+    ],
+    "primary_theme": "Gratitude and thanksgiving are essential spiritual practices rooted in faith that call believers to acknowledge God's abundance, maintain hope amid suffering and injustice, and express their faith through generosity and care for the vulnerable.",
+    "rhetorical_style": "Pastoral reflection with prophetic challenge, blending liturgical theology, scriptural allusion, contemporary narrative storytelling (the Rebecca/Max example), and invocation of respected contemporary voices (Tutu/Dalai Lama) to move the congregation from inner gratitude to outward action."
+  },
+  {
+    "references": [
+      {
+        "name": "Saint Luke the Physician and Evangelist",
+        "type": "thinker",
+        "context": "The sermon is delivered on the Feast of Saint Luke, establishing the framework for discussing healing and evangelism as vocations.",
+        "significance": "central"
+      },
+      {
+        "name": "The Sermon on the Mount / Mount of the Beatitudes",
+        "type": "scripture",
+        "context": "Referenced as proclaiming a vision of life centered on peace and reconciliation that parallels the work of Jerusalem Peace Builders.",
+        "significance": "central"
+      },
+      {
+        "name": "Torah / Synagogue Scroll",
+        "type": "scripture",
+        "context": "Alluded to as containing the proclamation of peace and justice that undergirds interfaith peacemaking.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christian sacramental tradition",
+        "type": "tradition",
+        "context": "Invoked through reference to 'nourishment and community and sacrament' as essential to sustaining commitment to peacemaking.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Liberation theology / prophetic justice tradition",
+        "type": "tradition",
+        "context": "Implicit in the sermon's focus on dehumanization, indignity, reconciliation of conflicts, and the call to healing and peacemaking as religious imperatives.",
+        "significance": "central"
+      },
+      {
+        "name": "Interfaith dialogue tradition",
+        "type": "tradition",
+        "context": "The entire sermon is grounded in interfaith dialogue as a mode of theological and social practice through Jerusalem Peace Builders.",
+        "significance": "central"
+      },
+      {
+        "name": "Death and resurrection theology",
+        "type": "tradition",
+        "context": "Implied through the phrase 'through death, there is life' as a theological principle undergirding redemptive peacemaking.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "Peacemaking and healing as Christian vocations, grounded in the example of Saint Luke and embodied through interfaith engagement in contexts of conflict.",
+    "rhetorical_style": "Pastoral narrative with prophetic challenge; the preacher uses personal testimony (his decade of service with Jerusalem Peace Builders) and imaginative appeals to solidarity to move from abstract theological principles to concrete calls to action."
+  },
+  {
+    "references": [
+      {
+        "name": "Dietrich Bonhoeffer",
+        "type": "thinker",
+        "context": "Opening epigraph: 'Christianity without discipleship is always Christianity without Christ.'",
+        "significance": "central"
+      },
+      {
+        "name": "Saint Paul's Letter to the Romans",
+        "type": "scripture",
+        "context": "Extended discussion of Romans passages as 'exhortation to holy living' across multiple Sundays in the liturgical calendar.",
+        "significance": "central"
+      },
+      {
+        "name": "Romans 12 (epistle passage)",
+        "type": "scripture",
+        "context": "Today's epistle reading describing virtues: 'Let love be genuine. Hold fast to what is good. Be patient in suffering. Persevere in prayer. Extend hospitality to strangers. Bless those who persecute you.'",
+        "significance": "central"
+      },
+      {
+        "name": "Romans 12:9-21 (implicit full passage)",
+        "type": "scripture",
+        "context": "Extended quotation of virtues including 'live in harmony with one another, do not be haughty, do not repay evil for evil, but overcome evil with good.'",
+        "significance": "central"
+      },
+      {
+        "name": "Life, death, and resurrection of Jesus Christ",
+        "type": "scripture",
+        "context": "Foundation for all ethical exhortations: 'comes from the life, death, and resurrection of Jesus Christ, our Lord.'",
+        "significance": "central"
+      },
+      {
+        "name": "The Gospel (unnamed specific gospel)",
+        "type": "scripture",
+        "context": "Source of examples for how 'this holy life is to be carried out, to be lived.'",
+        "significance": "central"
+      },
+      {
+        "name": "Psalm (specific psalm unnumbered)",
+        "type": "scripture",
+        "context": "Quoted at sermon's conclusion: 'Your love is before my eyes.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "The Collect (liturgical prayer)",
+        "type": "scripture",
+        "context": "Referenced as describing 'true religion' in Anglican liturgy.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Amazing Grace (hymn)",
+        "type": "book",
+        "context": "Described as sung together by inmates in Texas state prisons as sign of transformed hearts.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Cheap grace (Bonhoeffer's concept)",
+        "type": "implicit",
+        "context": "Implicit in opening quotation contrasting Christianity with and without discipleship; sermon's entire argument opposes nominal faith.",
+        "significance": "central"
+      },
+      {
+        "name": "Christian discipleship tradition",
+        "type": "tradition",
+        "context": "Central theological framework throughout: discipleship as costly, transformative, and expressed in both dramatic and quotidian actions.",
+        "significance": "central"
+      },
+      {
+        "name": "Lectionary/liturgical tradition",
+        "type": "tradition",
+        "context": "Sermon dated as 'The Fourteenth Sunday after Pentecost' and references multi-week readings from Romans in the church calendar.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Pauline exhortatory rhetoric",
+        "type": "tradition",
+        "context": "Sermon characterizes Paul as 'arguing, appealing, making the case with persuasive passion, calling the Romans to present themselves as a living sacrifice.'",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "Authentic Christian discipleship requires concrete, daily embodiment of Christ's love\u2014both in dramatic prophetic witness and in ordinary acts of care\u2014as a living sacrifice that transforms oneself and the world.",
+    "rhetorical_style": "Pastoral narrative combined with prophetic exhortation; draws on personal witness (prison ministry, interfaith work, gun violence advocacy) to illustrate theological principles from Scripture, culminating in an urgent appeal to the congregation."
+  },
+  {
+    "references": [
+      {
+        "name": "Acts 2:42-47",
+        "type": "scripture",
+        "context": "The first lesson describing how baptized believers devoted themselves to apostles' teaching, fellowship, breaking of bread, and prayers, with wonders and signs performed by apostles.",
+        "significance": "central"
+      },
+      {
+        "name": "John 10:14",
+        "type": "scripture",
+        "context": "Direct quote: 'I am the good shepherd, says the Lord. I know my own sheep and they know me.'",
+        "significance": "central"
+      },
+      {
+        "name": "John 10:3-4",
+        "type": "scripture",
+        "context": "Allusion to the shepherd calling his own by name and leading them out, with sheep following because they know his voice.",
+        "significance": "central"
+      },
+      {
+        "name": "Road to Emmaus",
+        "type": "scripture",
+        "context": "Referenced as an example where disciples come to know Christ's presence, dispelling fear and revealing new life.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Empty tomb (Mary)",
+        "type": "scripture",
+        "context": "Mary at the empty tomb referenced alongside other post-resurrection encounters where awe is experienced.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Locked house (disciples)",
+        "type": "scripture",
+        "context": "Post-resurrection appearance to disciples in a locked house as an example of Christ revealing himself amid fear.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Easter mystery",
+        "type": "tradition",
+        "context": "The theological concept of 'dying to oneself and living for others' framed as the Easter mystery.",
+        "significance": "central"
+      },
+      {
+        "name": "Theology/theologians",
+        "type": "implicit",
+        "context": "Sermon states 'All of us as theologians wielding the blessings in life to interpret what it means to commune with Father, Son, and Holy Spirit,' democratizing theological reflection.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christian contemplative tradition (sacred ground/spiritual energy)",
+        "type": "implicit",
+        "context": "Juanita's reference to the burial ground as 'sacred' and being 'drawn to its spiritual energy' reflects contemplative Christian sensibility about holy places.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "Christian life is characterized by awe and wonder at God's presence, exemplified in the early church's communal devotion and modern acts of compassion that echo the Good Shepherd's call to follow Christ with reverent hearts.",
+    "rhetorical_style": "Narrative storytelling interwoven with pastoral reflection, using a personal anecdote about Juanita to illustrate theological principles drawn from Acts and Johannine Christology, culminating in prophetic challenge to live generously and lovingly."
+  },
+  {
+    "references": [
+      {
+        "name": "Book of Isaiah",
+        "type": "scripture",
+        "context": "Isaiah 42:1-5 quoted: 'Here is my servant whom I uphold, my chosen in whom my soul delights. Thus says God the Lord, who created the heavens and stretched them out...'",
+        "significance": "central"
+      },
+      {
+        "name": "Hesed (Hebrew concept)",
+        "type": "tradition",
+        "context": "Defined as 'loving concern for others, for the suffering of others' and presented as the core of faith.",
+        "significance": "central"
+      },
+      {
+        "name": "Hebrew Bible/Old Testament",
+        "type": "tradition",
+        "context": "Referenced for stories of David and other kings being anointed by prophets to lead Israel.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Gospel of John (Bethany narrative)",
+        "type": "scripture",
+        "context": "John 12:1-8 (or synoptic parallel) - the anointing of Jesus by Mary at Simon the leper's house in Bethany with expensive perfume.",
+        "significance": "central"
+      },
+      {
+        "name": "Messianic tradition",
+        "type": "tradition",
+        "context": "Mary's anointing of Jesus 'lives into the messianic promise. Anointed one, liberator and savior of the world.'",
+        "significance": "central"
+      },
+      {
+        "name": "Judas Iscariot",
+        "type": "scripture",
+        "context": "Referenced as the disciple who questions Mary's anointing and is revealed as a thief; used to illustrate hypocrisy versus authentic compassion.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Jesus' crucifixion and atonement theology",
+        "type": "tradition",
+        "context": "'For our sins he was lifted high upon the cross, that he might draw the whole world to himself, and by his suffering and death he became the source of eternal salvation.'",
+        "significance": "central"
+      },
+      {
+        "name": "Christian discipleship tradition",
+        "type": "tradition",
+        "context": "Referenced through the metaphor 'leave behind our nets, swallow our pride, and forgive those who trespass against us' and love commandment.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Beatific vision/resurrection theology",
+        "type": "implicit",
+        "context": "'When you bow down in faith, you will rise in glory' - an implicit reference to Christian resurrection theology and the paradox of humility leading to exaltation.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Holy Week narrative",
+        "type": "tradition",
+        "context": "The sermon positions itself within the liturgical and narrative tradition of Holy Week, leading from Palm Sunday through crucifixion.",
+        "significance": "central"
+      },
+      {
+        "name": "Interfaith peace-building tradition",
+        "type": "tradition",
+        "context": "Implicit reference to contemporary Christian social engagement through mention of Jerusalem Peace Builders and interfaith dialogue work.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "The sermon explores why Christians should care for others and follow Christ through the lens of Mary's compassionate anointing of Jesus in Bethany, arguing that faith is fundamentally about hesed (loving-kindness) and willingness to suffer with Christ rather than material concern or hypocrisy.",
+    "rhetorical_style": "Narrative storytelling combined with pastoral reflection, using a personal anecdote about a Muslim teenager's question to frame theological inquiry, interwoven with scriptural exposition and contemporary interfaith work as illustrations of faith's meaning."
+  }
+]

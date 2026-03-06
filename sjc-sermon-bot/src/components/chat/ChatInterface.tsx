@@ -4,6 +4,7 @@ import { useState, useRef, useEffect } from "react";
 import { useChat } from "@/hooks/useChat";
 import { getPreacherColor } from "@/lib/preachers";
 import Link from "next/link";
+import ReactMarkdown from "react-markdown";
 import type { ChatMessage, SermonSource } from "@/lib/types";
 
 const SUGGESTED_QUESTIONS = [
@@ -57,11 +58,53 @@ function MessageBubble({
         }`}
       >
         <div
-          className={`text-sm leading-relaxed whitespace-pre-wrap ${
-            isUser ? "" : "text-ink-light"
+          className={`text-sm leading-relaxed ${
+            isUser ? "whitespace-pre-wrap" : "text-ink-light"
           }`}
         >
-          {message.content}
+          {isUser ? (
+            message.content
+          ) : message.content ? (
+            <ReactMarkdown
+              components={{
+                h1: ({ children }) => (
+                  <h4 className="font-serif text-base font-semibold mt-3 mb-1">
+                    {children}
+                  </h4>
+                ),
+                h2: ({ children }) => (
+                  <h4 className="font-serif text-sm font-semibold mt-3 mb-1">
+                    {children}
+                  </h4>
+                ),
+                h3: ({ children }) => (
+                  <h5 className="text-sm font-semibold mt-2 mb-1">
+                    {children}
+                  </h5>
+                ),
+                p: ({ children }) => <p className="mb-2 last:mb-0">{children}</p>,
+                strong: ({ children }) => (
+                  <strong className="font-semibold text-ink">{children}</strong>
+                ),
+                ul: ({ children }) => (
+                  <ul className="list-disc pl-4 space-y-1 mb-2">{children}</ul>
+                ),
+                ol: ({ children }) => (
+                  <ol className="list-decimal pl-4 space-y-1 mb-2">{children}</ol>
+                ),
+                li: ({ children }) => (
+                  <li className="leading-relaxed">{children}</li>
+                ),
+                blockquote: ({ children }) => (
+                  <blockquote className="border-l-2 border-cathedral-red/30 pl-3 italic my-2">
+                    {children}
+                  </blockquote>
+                ),
+              }}
+            >
+              {message.content}
+            </ReactMarkdown>
+          ) : null}
           {isStreaming && message.role === "assistant" && !message.content && (
             <span className="inline-block animate-pulse">Thinking...</span>
           )}

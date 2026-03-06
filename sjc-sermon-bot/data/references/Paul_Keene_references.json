@@ -1,0 +1,255 @@
+[
+  {
+    "references": [
+      {
+        "name": "Ash Wednesday Devotional Prayer (13th-century origin, 16th-century English translation)",
+        "type": "book",
+        "context": "The preacher shares the ancient prayer 'God be in my head and in my understanding...' as the primary text organizing the entire sermon's theological reflection.",
+        "significance": "central"
+      },
+      {
+        "name": "Sarum Primer",
+        "type": "book",
+        "context": "Referenced as the source of the prayer tradition, with the preacher noting the prayer book's guidance on observing a Holy Lent through self-examination, repentance, prayer, fasting, and meditation on scripture.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Book of Common Prayer",
+        "type": "book",
+        "context": "The prayer book is cited for its three categories of Lenten observance: self-examination and repentance, prayer/fasting/self-denial, and reading/meditating on holy scripture.",
+        "significance": "supporting"
+      },
+      {
+        "name": "The Book of Joel",
+        "type": "scripture",
+        "context": "Joel's sounding of the trumpet is invoked as prophetic invitation: 'that we would hear our God and return to the Lord.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "2 Corinthians 5:20-21 (implicit)",
+        "type": "scripture",
+        "context": "The apostles' entreaty to be 'reconciled to God' and to 'become the righteousness of God' directly echoes Pauline language.",
+        "significance": "central"
+      },
+      {
+        "name": "The Prophets (general)",
+        "type": "tradition",
+        "context": "The preacher invokes prophetic tradition as calling people to acknowledge God's presence and return to the Lord.",
+        "significance": "supporting"
+      },
+      {
+        "name": "The Apostles (Paul and other New Testament writers)",
+        "type": "tradition",
+        "context": "The apostles are cited as representatives of Christ's teaching on reconciliation and righteousness, and their lived witness to difficulty in following God's call.",
+        "significance": "central"
+      },
+      {
+        "name": "Jesus Christ / Gospel teaching",
+        "type": "scripture",
+        "context": "Jesus is referenced as the one who 'spoke most frequently' prophetically, and his gospel warning about hypocrisy in prayer and fasting is cited as central to authentic Lenten practice.",
+        "significance": "central"
+      },
+      {
+        "name": "Matthew 6 (implicit - the Sermon on the Mount on prayer, fasting, and almsgiving)",
+        "type": "scripture",
+        "context": "The preacher's discussion of avoiding hypocrisy in prayer, fasting, and giving, and the warning against 'being the hypocrite,' alludes to Jesus's teaching on these practices.",
+        "significance": "supporting"
+      },
+      {
+        "name": "2 Corinthians 6:4-10 (implicit - 'genuine love, truthful speech, and the power of God')",
+        "type": "scripture",
+        "context": "The specific list of virtues\u2014'purity, knowledge, patience, kindness, holiness of spirit, genuine love, truthful speech, and the power of God'\u2014closely parallels Paul's catalog of spiritual fruits.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Medieval mystical theology / contemplative prayer tradition",
+        "type": "tradition",
+        "context": "The sermon's method of praying with the body and senses (head, eyes, mouth, heart) reflects medieval mystical practice of embodied prayer and divine presence within.",
+        "significance": "central"
+      },
+      {
+        "name": "Incarnational theology",
+        "type": "tradition",
+        "context": "The emphasis on God's indwelling presence within human body and soul, and the invitation to become 'the righteousness of God,' reflects incarnational rather than dualistic theology.",
+        "significance": "central"
+      },
+      {
+        "name": "Penitential theology (sacramental tradition)",
+        "type": "tradition",
+        "context": "The sermon frames Ash Wednesday, Lent, self-examination, repentance, and fasting within traditional Christian penitential practice.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "Ash Wednesday and Lent invite Christians into a sustained practice of recognizing and inviting God's presence within every aspect of human life\u2014mind, sight, speech, and heart\u2014not as a temporary resolution but as a permanent reorientation toward divine majesty and righteousness.",
+    "rhetorical_style": "Pastoral-liturgical reflection using contemplative prayer as the organizing text; the preacher unfolds the prayer line-by-line as an extended meditation, combining scriptural allusion, theological exhortation, and invitation to imaginative practice. The style is warm, accessible, and embodied rather than scholarly, with repeated use of 'imagine if' to invite participatory transformation."
+  },
+  null,
+  {
+    "references": [
+      {
+        "name": "Jeremiah (prophet)",
+        "type": "scripture",
+        "context": "Jeremiah prophesies in the 7th century BCE about God sending a righteous king/shepherd to replace corrupt earthly rulers.",
+        "significance": "central"
+      },
+      {
+        "name": "Jeremiah 23:1-6",
+        "type": "scripture",
+        "context": "Opening reading: God condemns shepherds (kings) who scatter the flock and promises a righteous branch from David.",
+        "significance": "central"
+      },
+      {
+        "name": "2 Samuel 5:2",
+        "type": "scripture",
+        "context": "People acknowledge David as king with the words: 'It is you who shall be shepherd of my people Israel.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "1 Samuel 8",
+        "type": "scripture",
+        "context": "God warns Israel through Samuel that kings will take their children for war, steal their possessions, and bring tyranny.",
+        "significance": "central"
+      },
+      {
+        "name": "Colossians 1:15",
+        "type": "scripture",
+        "context": "Paul writes that 'Jesus is the image of the invisible God,' establishing Christ's divine kingship.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Matthew 4:8-10 (Temptation narrative)",
+        "type": "scripture",
+        "context": "Jesus is tempted by the devil who shows him all kingdoms of the world, offering them if Jesus will worship him; Jesus rejects this.",
+        "significance": "central"
+      },
+      {
+        "name": "John 18:37",
+        "type": "scripture",
+        "context": "Pilate asks Jesus 'Are you a king?' and Jesus responds ambiguously: 'You say that I am.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Crucifixion placard",
+        "type": "scripture",
+        "context": "The inscription above Jesus's head reading in Greek, Hebrew, and Latin: 'King of the Jews.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Baptismal covenant",
+        "type": "tradition",
+        "context": "The preacher connects Christ the King's call to reject Satan and spiritual wickedness with the promises made in baptism.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Christ the King feast (instituted 1925)",
+        "type": "tradition",
+        "context": "The feast was established by the Roman Catholic Church in 1925 following WWI as acknowledgment that lasting peace requires looking to Christ's kingdom.",
+        "significance": "central"
+      },
+      {
+        "name": "Post-WWI theological response",
+        "type": "tradition",
+        "context": "The institution of Christ the King Sunday reflected theological recognition that Christian peace theology was necessary after the devastation of the First World War.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Shepherd metaphor in Scripture",
+        "type": "tradition",
+        "context": "The preacher identifies the shepherd-king motif as 'tried and true throughout scripture,' a consistent biblical metaphor for kingship.",
+        "significance": "central"
+      },
+      {
+        "name": "Unnamed hymn ('one of the best hymns ever written')",
+        "type": "book",
+        "context": "The preacher references an excellent hymn that describes the righteous branch who 'frees us from Satan's tyranny,' to be sung in a couple weeks.",
+        "significance": "supporting"
+      },
+      {
+        "name": "American Revolutionary history",
+        "type": "implicit",
+        "context": "The preacher's discomfort with monarchies stems partly from American history: elementary school lessons, college time in Virginia (Yorktown, Williamsburg, Jamestown), work on Boston Harbor during the Tea Party era.",
+        "significance": "passing"
+      },
+      {
+        "name": "Second World War",
+        "type": "implicit",
+        "context": "The preacher notes that 13 years after Christ the King was instituted, WWII broke out, disproving the illusion that WWI was 'the war to end all wars,' proving Jeremiah's warning about kings and peace.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "Christ the King Sunday celebrates Jesus as the Good Shepherd-King who embodies a radically different model of kingship than earthly rulers, calling Christians to reject worldly power dynamics and follow his example of sacrificial love and reconciliation.",
+    "rhetorical_style": "Pastoral-prophetic narrative with autobiographical openings, historical situating, scriptural exegesis, and personal testimony; the preacher uses irony (claiming to dislike kings while celebrating Christ as King) to draw listeners into theological wrestling, moving from personal admission through historical context to theological affirmation."
+  },
+  {
+    "references": [
+      {
+        "name": "Book of Jeremiah",
+        "type": "scripture",
+        "context": "Jeremiah tells people to go and live in Babylon (the exile) and seek its welfare while there; sermon references 'our reading out of Jeremiah today.'",
+        "significance": "central"
+      },
+      {
+        "name": "Jeremiah 29 (implied)",
+        "type": "scripture",
+        "context": "The instruction to 'live in Babylon' and 'live within their welfare and do well' while in exile.",
+        "significance": "central"
+      },
+      {
+        "name": "Book of Daniel",
+        "type": "scripture",
+        "context": "Preacher encourages reading Daniel to see 'the way that certain Israelites, certain Judeans, certain Hebrews lived so well in exile.'",
+        "significance": "supporting"
+      },
+      {
+        "name": "Gospel (Luke 17:11-19 implied)",
+        "type": "scripture",
+        "context": "The healing of ten lepers story, with reference to the Samaritan who returns to give thanks; described as 'our reading of the Gospel this morning.'",
+        "significance": "central"
+      },
+      {
+        "name": "Book of Genesis",
+        "type": "scripture",
+        "context": "Reference to 'a mighty tower' constructed, establishing 'a cycle that we as humans cannot escape'\u2014allusion to Tower of Babel.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Tower of Babel narrative",
+        "type": "scripture",
+        "context": "Genesis account used to illustrate the cyclical trope of empire-building and human hubris that repeats throughout biblical history.",
+        "significance": "supporting"
+      },
+      {
+        "name": "Babylonian Exile (historical/biblical)",
+        "type": "tradition",
+        "context": "The 'great exile' when Jerusalem's temple was destroyed and people were taken captive; used as archetypal image of oppression and displacement.",
+        "significance": "central"
+      },
+      {
+        "name": "Samaritan identity/history",
+        "type": "tradition",
+        "context": "Samaritans described as 'the remnant' left behind after exile, experiencing 'the oppression, the fierce might of Babylon' without being taken; represents ongoing marginalization.",
+        "significance": "central"
+      },
+      {
+        "name": "Imperial succession (Persia, Greece, Rome)",
+        "type": "tradition",
+        "context": "Sermon traces cyclical pattern: 'Babylon...Persia...Greece...Rome. The empires fall and a new Babylon rises. This is the cycle.'",
+        "significance": "central"
+      },
+      {
+        "name": "Leprosy as biblical trope of exile",
+        "type": "tradition",
+        "context": "Leprosy and lepers used throughout scripture as 'a trope of exile,' representing ostracization and social death.",
+        "significance": "central"
+      },
+      {
+        "name": "Biblical imagination / biblical hermeneutics",
+        "type": "tradition",
+        "context": "Reference to patterns 'throughout the biblical imagination' and how tropes recur; suggests reading Scripture for recurring themes and theological patterns.",
+        "significance": "supporting"
+      }
+    ],
+    "primary_theme": "Jesus teaches us to live faithfully within oppressive systems ('Babylon') by helping one another bear burdens and work toward liberation, exemplified by the Samaritan leper who returns to give thanks and share healing with others.",
+    "rhetorical_style": "Narrative storytelling with theological pattern-recognition; the preacher builds a grand historical arc (Tower of Babel \u2192 Babylonian Exile \u2192 Imperial succession \u2192 Present day) that frames the Gospel healing story as a timeless teaching about how to resist oppression through mutual care and gratitude rather than individualistic escape."
+  }
+]
