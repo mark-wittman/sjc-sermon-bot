@@ -1,0 +1,23 @@
+# Data files (too large for git)
+sermon_bot/data/audio/
+sermon_bot/data/transcripts/
+sermon_bot/data/chroma_db/
+sermon_bot/data/context/
+sermon_bot/data/references/
+sermon_bot/data/generated_sermons/
+
+# Web app data (synced from pipeline)
+sjc-sermon-bot/data/
+sjc-sermon-bot/.next/
+sjc-sermon-bot/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+
+# Keep catalog.json as it's small and useful for reference
+!sermon_bot/data/catalog.json
