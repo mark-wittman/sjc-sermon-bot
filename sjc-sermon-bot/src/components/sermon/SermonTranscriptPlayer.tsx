@@ -1,7 +1,7 @@
 "use client";
 
-import { useRef } from "react";
-import type { ProcessedSection } from "@/lib/types";
+import { useRef, useState, useEffect, useCallback } from "react";
+import type { ProcessedSection, TranscriptSegment } from "@/lib/types";
 
 function formatTimestamp(seconds: number): string {
   const m = Math.floor(seconds / 60);
@@ -12,13 +12,19 @@ function formatTimestamp(seconds: number): string {
 export function SermonTranscriptPlayer({
   audioUrl,
   transcript,
+  segments,
   sections,
 }: {
   audioUrl?: string;
   transcript?: string;
+  segments?: TranscriptSegment[];
   sections?: ProcessedSection[];
 }) {
   const audioRef = useRef<HTMLAudioElement>(null);
+  const activeSegRef = useRef<HTMLSpanElement>(null);
+  const transcriptRef = useRef<HTMLDivElement>(null);
+  const [activeIndex, setActiveIndex] = useState(-1);
+  const [isPlaying, setIsPlaying] = useState(false);
 
   const seekTo = (time: number) => {
     if (audioRef.current) {
@@ -27,11 +33,72 @@ export function SermonTranscriptPlayer({
     }
   };
 
+  // Track playback time and find the active segment
+  const handleTimeUpdate = useCallback(() => {
+    if (!audioRef.current || !segments?.length) return;
+    const t = audioRef.current.currentTime;
+
+    // Binary-ish search: segments are sorted by start time
+    let idx = -1;
+    for (let i = 0; i < segments.length; i++) {
+      if (t >= segments[i].start && t < segments[i].end) {
+        idx = i;
+        break;
+      }
+      // Handle gaps: if we're past this segment but before the next
+      if (
+        t >= segments[i].end &&
+        (i === segments.length - 1 || t < segments[i + 1].start)
+      ) {
+        idx = i;
+        break;
+      }
+    }
+    setActiveIndex(idx);
+  }, [segments]);
+
+  // Auto-scroll the active segment into view
+  useEffect(() => {
+    if (activeIndex >= 0 && isPlaying && activeSegRef.current && transcriptRef.current) {
+      const container = transcriptRef.current;
+      const el = activeSegRef.current;
+      const containerRect = container.getBoundingClientRect();
+      const elRect = el.getBoundingClientRect();
+
+      // Only scroll if the element is outside the visible area
+      if (elRect.top < containerRect.top || elRect.bottom > containerRect.bottom) {
+        el.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    }
+  }, [activeIndex, isPlaying]);
+
+  // Attach play/pause listeners
+  useEffect(() => {
+    const audio = audioRef.current;
+    if (!audio) return;
+
+    const onPlay = () => setIsPlaying(true);
+    const onPause = () => setIsPlaying(false);
+
+    audio.addEventListener("play", onPlay);
+    audio.addEventListener("pause", onPause);
+    audio.addEventListener("timeupdate", handleTimeUpdate);
+
+    return () => {
+      audio.removeEventListener("play", onPlay);
+      audio.removeEventListener("pause", onPause);
+      audio.removeEventListener("timeupdate", handleTimeUpdate);
+    };
+  }, [handleTimeUpdate]);
+
+  // Render segments as clickable spans with highlight
+  const hasTimedSegments = segments && segments.length > 0 && audioUrl;
+
   return (
     <>
       {/* Audio Player */}
       {audioUrl && (
-        <div className="mb-8 bg-white rounded-lg border border-border p-4">
+        <div className="mb-8 bg-white rounded-lg border border-border p-4 sticky top-0 z-10">
           <audio ref={audioRef} controls className="w-full" preload="none">
             <source src={audioUrl} type="audio/mpeg" />
             Your browser does not support the audio element.
@@ -40,11 +107,31 @@ export function SermonTranscriptPlayer({
       )}
 
       {/* Transcript */}
-      {transcript ? (
-        <div className="bg-white rounded-lg border border-border p-6 sm:p-8">
+      {transcript || hasTimedSegments ? (
+        <div
+          ref={transcriptRef}
+          className="bg-white rounded-lg border border-border p-6 sm:p-8"
+        >
           <h2 className="font-serif text-xl font-semibold mb-4">Transcript</h2>
 
-          {sections && sections.length > 0 ? (
+          {hasTimedSegments ? (
+            <div className="text-sm text-ink-light leading-relaxed">
+              {segments.map((seg, i) => (
+                <span
+                  key={i}
+                  ref={i === activeIndex ? activeSegRef : undefined}
+                  onClick={() => seekTo(seg.start)}
+                  className={`cursor-pointer transition-colors duration-300 hover:text-ink ${
+                    i === activeIndex && isPlaying
+                      ? "bg-cathedral-red/10 text-ink font-medium rounded px-0.5 -mx-0.5"
+                      : ""
+                  }`}
+                >
+                  {seg.text}{" "}
+                </span>
+              ))}
+            </div>
+          ) : sections && sections.length > 0 ? (
             <div className="space-y-6">
               {sections.map((section, i) => (
                 <div key={i}>
@@ -72,7 +159,7 @@ export function SermonTranscriptPlayer({
             </div>
           ) : (
             <div className="prose prose-sm max-w-none text-ink-light leading-relaxed">
-              {transcript.split("\n\n").map((para, i) => (
+              {(transcript ?? "").split("\n\n").map((para, i) => (
                 <p key={i}>{para}</p>
               ))}
             </div>

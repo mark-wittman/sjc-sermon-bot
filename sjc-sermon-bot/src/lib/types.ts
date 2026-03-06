@@ -116,6 +116,7 @@ export interface Sermon {
   duration: string;
   word_count?: number;
   transcript?: string;
+  segments?: TranscriptSegment[];
   sections?: ProcessedSection[];
   context?: TemporalContext;
   references?: SermonReferences;

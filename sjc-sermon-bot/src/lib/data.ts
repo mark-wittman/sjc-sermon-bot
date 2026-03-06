@@ -4,6 +4,7 @@ import type {
   Catalog,
   CatalogEpisode,
   Transcript,
+  TranscriptSegment,
   ProcessedTranscript,
   TemporalContext,
   VoiceProfiles,
@@ -146,6 +147,15 @@ export function getAllSermons(): Sermon[] {
           ? cleanTranscriptText(transcript.full_text)
           : undefined;
 
+      // Clean segments for time-synced highlighting
+      const segments: TranscriptSegment[] | undefined = transcript?.segments
+        ?.map((seg) => ({
+          start: seg.start,
+          end: seg.end,
+          text: cleanTranscriptText(seg.text),
+        }))
+        .filter((seg) => seg.text.length > 0);
+
       return {
         title: ep.title,
         date: ep.date,
@@ -156,6 +166,7 @@ export function getAllSermons(): Sermon[] {
         duration: ep.duration,
         word_count: processed?.word_count ?? transcript?.word_count,
         transcript: fullText,
+        segments: segments && segments.length > 0 ? segments : undefined,
         sections: processed?.sections,
         context: context || undefined,
       };

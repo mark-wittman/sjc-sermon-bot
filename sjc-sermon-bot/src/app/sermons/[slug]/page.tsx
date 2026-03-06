@@ -118,6 +118,7 @@ export default async function SermonDetailPage({
           <SermonTranscriptPlayer
             audioUrl={sermon.audio_url}
             transcript={sermon.transcript}
+            segments={sermon.segments}
             sections={sermon.sections}
           />
         </div>
