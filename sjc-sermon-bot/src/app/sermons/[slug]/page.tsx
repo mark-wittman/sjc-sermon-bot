@@ -3,64 +3,10 @@ import { getAllSermons, getSermonBySlug } from "@/lib/data";
 import { formatDate, formatWordCount } from "@/lib/formatters";
 import { getPreacherByName } from "@/lib/preachers";
 import Link from "next/link";
-import ReactMarkdown from "react-markdown";
 import { SermonTranscriptPlayer } from "@/components/sermon/SermonTranscriptPlayer";
 
 export async function generateStaticParams() {
   return getAllSermons().map((s) => ({ slug: s.slug }));
-}
-
-function SidebarContext({ contextText }: { contextText: string }) {
-  // Strip the redundant top-level headers
-  const cleaned = contextText
-    .replace(/^# TEMPORAL CONTEXT SNAPSHOT\s*/m, "")
-    .replace(/^## Saint John['']s.*\n?/m, "")
-    .replace(/^## Date:.*\n?/m, "")
-    .trim();
-
-  return (
-    <ReactMarkdown
-      components={{
-        h1: ({ children }) => (
-          <h4 className="font-serif text-base font-semibold mt-3 mb-1">
-            {children}
-          </h4>
-        ),
-        h2: ({ children }) => (
-          <h4 className="font-serif text-sm font-semibold mt-4 mb-1">
-            {children}
-          </h4>
-        ),
-        h3: ({ children }) => (
-          <h5 className="font-serif text-sm font-semibold mt-3 mb-1">
-            {children}
-          </h5>
-        ),
-        hr: () => <hr className="border-t border-border my-3" />,
-        p: ({ children }) => (
-          <p className="text-sm text-ink-light leading-relaxed mb-2">
-            {children}
-          </p>
-        ),
-        strong: ({ children }) => (
-          <strong className="font-semibold text-ink">{children}</strong>
-        ),
-        ul: ({ children }) => (
-          <ul className="text-sm text-ink-light list-disc pl-4 space-y-1 mb-2">
-            {children}
-          </ul>
-        ),
-        ol: ({ children }) => (
-          <ol className="text-sm text-ink-light list-decimal pl-4 space-y-1 mb-2">
-            {children}
-          </ol>
-        ),
-        li: ({ children }) => <li className="leading-relaxed">{children}</li>,
-      }}
-    >
-      {cleaned}
-    </ReactMarkdown>
-  );
 }
 
 export default async function SermonDetailPage({
@@ -149,13 +95,59 @@ export default async function SermonDetailPage({
             </Link>
           )}
 
-          {/* Temporal Context */}
-          {sermon.context && (
+          {/* Sermon Insights */}
+          {sermon.insights && (
             <div className="bg-white rounded-lg border border-border p-5">
               <h3 className="font-serif text-base font-semibold mb-3">
-                Historical Context
+                Sermon Insights
               </h3>
-              <SidebarContext contextText={sermon.context.context} />
+
+              {sermon.insights.readings.length > 0 && (
+                <div className="mb-4">
+                  <h4 className="text-xs font-semibold uppercase tracking-wide text-ink-muted mb-2">
+                    Readings
+                  </h4>
+                  <ul className="space-y-1.5">
+                    {sermon.insights.readings.map((r, i) => (
+                      <li key={i} className="text-sm group">
+                        <span className="font-medium text-ink">{r.name}</span>
+                        <p className="text-xs text-ink-light leading-relaxed mt-0.5">
+                          {r.context}
+                        </p>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {sermon.insights.people.length > 0 && (
+                <div className="mb-4">
+                  <h4 className="text-xs font-semibold uppercase tracking-wide text-ink-muted mb-2">
+                    Referenced
+                  </h4>
+                  <ul className="space-y-1.5">
+                    {sermon.insights.people.map((p, i) => (
+                      <li key={i} className="text-sm group">
+                        <span className="font-medium text-ink">{p.name}</span>
+                        <p className="text-xs text-ink-light leading-relaxed mt-0.5">
+                          {p.context}
+                        </p>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {sermon.insights.theme && (
+                <div>
+                  <h4 className="text-xs font-semibold uppercase tracking-wide text-ink-muted mb-2">
+                    Theme
+                  </h4>
+                  <p className="text-sm text-ink-light leading-relaxed">
+                    {sermon.insights.theme}
+                  </p>
+                </div>
+              )}
             </div>
           )}
 

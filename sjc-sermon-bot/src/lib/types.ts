@@ -120,6 +120,11 @@ export interface Sermon {
   sections?: ProcessedSection[];
   context?: TemporalContext;
   references?: SermonReferences;
+  insights?: {
+    readings: { name: string; context: string }[];
+    people: { name: string; context: string }[];
+    theme: string;
+  };
 }
 
 export interface ChatMessage {
