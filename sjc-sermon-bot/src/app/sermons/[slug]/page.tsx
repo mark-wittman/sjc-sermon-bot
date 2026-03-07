@@ -97,23 +97,29 @@ export default async function SermonDetailPage({
 
           {/* Sermon Insights */}
           {sermon.insights && (
-            <div className="bg-white rounded-lg border border-border p-5">
+            <div className="bg-white rounded-lg border border-border p-5 font-sans">
               <h3 className="font-serif text-base font-semibold mb-3">
                 Sermon Insights
               </h3>
 
+              {sermon.insights.theme && (
+                <div className="mb-4">
+                  <p className="text-sm text-ink-light leading-relaxed italic">
+                    {sermon.insights.theme}
+                  </p>
+                </div>
+              )}
+
               {sermon.insights.readings.length > 0 && (
                 <div className="mb-4">
-                  <h4 className="text-xs font-semibold uppercase tracking-wide text-ink-muted mb-2">
+                  <p className="text-[11px] font-semibold uppercase tracking-wide text-ink-muted mb-1.5">
                     Readings
-                  </h4>
-                  <ul className="space-y-1.5">
+                  </p>
+                  <ul className="space-y-1">
                     {sermon.insights.readings.map((r, i) => (
-                      <li key={i} className="text-sm group">
-                        <span className="font-medium text-ink">{r.name}</span>
-                        <p className="text-xs text-ink-light leading-relaxed mt-0.5">
-                          {r.context}
-                        </p>
+                      <li key={i} className="text-xs leading-snug">
+                        <span className="font-semibold text-ink">{r.name}</span>
+                        <span className="text-ink-muted"> — {r.context}</span>
                       </li>
                     ))}
                   </ul>
@@ -121,30 +127,12 @@ export default async function SermonDetailPage({
               )}
 
               {sermon.insights.people.length > 0 && (
-                <div className="mb-4">
-                  <h4 className="text-xs font-semibold uppercase tracking-wide text-ink-muted mb-2">
-                    Referenced
-                  </h4>
-                  <ul className="space-y-1.5">
-                    {sermon.insights.people.map((p, i) => (
-                      <li key={i} className="text-sm group">
-                        <span className="font-medium text-ink">{p.name}</span>
-                        <p className="text-xs text-ink-light leading-relaxed mt-0.5">
-                          {p.context}
-                        </p>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
-
-              {sermon.insights.theme && (
                 <div>
-                  <h4 className="text-xs font-semibold uppercase tracking-wide text-ink-muted mb-2">
-                    Theme
-                  </h4>
-                  <p className="text-sm text-ink-light leading-relaxed">
-                    {sermon.insights.theme}
+                  <p className="text-[11px] font-semibold uppercase tracking-wide text-ink-muted mb-1.5">
+                    Referenced
+                  </p>
+                  <p className="text-xs text-ink-light leading-relaxed">
+                    {sermon.insights.people.map((p) => p.name).join(", ")}
                   </p>
                 </div>
               )}

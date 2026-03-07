@@ -94,6 +94,30 @@ export function SermonTranscriptPlayer({
   // Render segments as clickable spans with highlight
   const hasTimedSegments = segments && segments.length > 0 && audioUrl;
 
+  // Group timed segments into paragraphs (~4-6 sentences each)
+  const segmentParagraphs = hasTimedSegments
+    ? (() => {
+        const paragraphs: number[][] = [];
+        let current: number[] = [];
+        let sentenceCount = 0;
+        for (let i = 0; i < segments.length; i++) {
+          current.push(i);
+          const text = segments[i].text;
+          // Count sentence endings
+          if (/[.!?]["']?\s*$/.test(text)) {
+            sentenceCount++;
+            if (sentenceCount >= 5) {
+              paragraphs.push(current);
+              current = [];
+              sentenceCount = 0;
+            }
+          }
+        }
+        if (current.length > 0) paragraphs.push(current);
+        return paragraphs;
+      })()
+    : [];
+
   return (
     <>
       {/* Audio Player */}
@@ -115,20 +139,24 @@ export function SermonTranscriptPlayer({
           <h2 className="font-serif text-xl font-semibold mb-4">Transcript</h2>
 
           {hasTimedSegments ? (
-            <div className="text-sm text-ink-light leading-relaxed">
-              {segments.map((seg, i) => (
-                <span
-                  key={i}
-                  ref={i === activeIndex ? activeSegRef : undefined}
-                  onClick={() => seekTo(seg.start)}
-                  className={`cursor-pointer transition-colors duration-300 hover:text-ink ${
-                    i === activeIndex && isPlaying
-                      ? "bg-cathedral-red/10 text-ink font-medium rounded px-0.5 -mx-0.5"
-                      : ""
-                  }`}
-                >
-                  {seg.text}{" "}
-                </span>
+            <div className="text-sm text-ink-light leading-relaxed space-y-4">
+              {segmentParagraphs.map((indices, pi) => (
+                <p key={pi}>
+                  {indices.map((i) => (
+                    <span
+                      key={i}
+                      ref={i === activeIndex ? activeSegRef : undefined}
+                      onClick={() => seekTo(segments[i].start)}
+                      className={`cursor-pointer transition-colors duration-300 hover:text-ink ${
+                        i === activeIndex && isPlaying
+                          ? "bg-cathedral-red/10 text-ink font-medium rounded px-0.5 -mx-0.5"
+                          : ""
+                      }`}
+                    >
+                      {segments[i].text}{" "}
+                    </span>
+                  ))}
+                </p>
               ))}
             </div>
           ) : sections && sections.length > 0 ? (
@@ -159,9 +187,20 @@ export function SermonTranscriptPlayer({
             </div>
           ) : (
             <div className="prose prose-sm max-w-none text-ink-light leading-relaxed">
-              {(transcript ?? "").split("\n\n").map((para, i) => (
-                <p key={i}>{para}</p>
-              ))}
+              {(() => {
+                const text = transcript ?? "";
+                // If text has real paragraph breaks use them, otherwise split by sentences
+                if (text.includes("\n\n")) {
+                  return text.split("\n\n").map((para, i) => <p key={i}>{para}</p>);
+                }
+                // Split into ~5-sentence paragraphs
+                const sentences = text.match(/[^.!?]*[.!?]+[\s]*/g) || [text];
+                const paras: string[] = [];
+                for (let i = 0; i < sentences.length; i += 5) {
+                  paras.push(sentences.slice(i, i + 5).join("").trim());
+                }
+                return paras.map((p, i) => <p key={i}>{p}</p>);
+              })()}
             </div>
           )}
         </div>
